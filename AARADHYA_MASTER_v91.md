@@ -15,6 +15,7 @@
 ## 📋 Session Loading Instructions
 
 Upload this single file at the start of any Claude session. It contains:
+
 - Full personal & academic identity
 - All projects (with CV-accurate descriptions)
 - Professional roles & fellowships
@@ -47,6 +48,7 @@ Upload this single file at the start of any Claude session. It contains:
 | Nexus project | Repo `nexus` under `AaradhyaDT`; MIT; React + FastAPI + PostgreSQL + ChromaDB; Day 1 skeleton built June 10, 2026 |
 
 **Documents most likely to be stale:**
+
 - `PROFILE_AaradhyaDevTamrakar_v4` — roles reference Counter-UAV; needs v5
 - `PROFILE_RupeshKadel_v5` — roles reference Counter-UAV; needs v6
 - `PROFILE_SankalpaLamsal_v3` — roles reference Counter-UAV; needs v4
@@ -62,6 +64,7 @@ Upload this single file at the start of any Claude session. It contains:
 ## 🏦 Banking & Subscriptions
 
 ### Siddhartha Bank (SBL)
+
 | Item | Detail |
 |---|---|
 | **Account** | GenZ Account (active) |
@@ -71,6 +74,7 @@ Upload this single file at the start of any Claude session. It contains:
 | **Docs needed** | Citizenship + PAN + GenZ account details + application form at branch |
 
 ### Planned Subscriptions
+
 | Service | Cost | Notes |
 |---|---|---|
 | **Claude Pro** | ~$18/month (~$216/year) | Well within E-com Card's $500/year limit |
@@ -81,22 +85,23 @@ Upload this single file at the start of any Claude session. It contains:
 
 | Account | Email |
 |---|---|
-| **Primary (Claude — active)** | aaradhyadevtmr@gmail.com |
-| Claude (secondary) | devtamrakaraaradhya83@gmail.com |
-| Claude (alt) | xavier.valois007@gmail.com |
-| **Claude (Major Project)** | majorprj79001@gmail.com |
-| ChatGPT / GPT-5.3 | aaradhyadevtmr@gmail.com |
-| IEEE | aaradhya.devtamkarar@ieee.org |
-| Family | tamrakarfamily0@gmail.com |
-| Gaming / Misc | adtgames2061@gmail.com |
+| **Primary (Claude — active)** | <aaradhyadevtmr@gmail.com> |
+| Claude (secondary) | <devtamrakaraaradhya83@gmail.com> |
+| Claude (alt) | <xavier.valois007@gmail.com> |
+| **Claude (Major Project)** | <majorprj79001@gmail.com> |
+| ChatGPT / GPT-5.3 | <aaradhyadevtmr@gmail.com> |
+| IEEE | <aaradhya.devtamkarar@ieee.org> |
+| Family | <tamrakarfamily0@gmail.com> |
+| Gaming / Misc | <adtgames2061@gmail.com> |
 
 ### Major Project Group Accounts
+
 | Member | Gmail | Notes |
 |---|---|---|
-| Aaradhya (project Claude) | majorprj79001@gmail.com | Claude account for Major Project workstream |
-| Rupesh Kadel | majorprj79034@gmail.com | Has own personal account too |
-| Sankalpa Lamsal | majorprj79039@gmail.com | Has own personal account too |
-| Sonia Thapa | majorprj79043@gmail.com | Has own personal account too |
+| Aaradhya (project Claude) | <majorprj79001@gmail.com> | Claude account for Major Project workstream |
+| Rupesh Kadel | <majorprj79034@gmail.com> | Has own personal account too |
+| Sankalpa Lamsal | <majorprj79039@gmail.com> | Has own personal account too |
+| Sonia Thapa | <majorprj79043@gmail.com> | Has own personal account too |
 
 > Maintains Claude accounts for parallel workstreams. Uses `.md` files for cross-session continuity.
 
@@ -107,24 +112,24 @@ Upload this single file at the start of any Claude session. It contains:
 | Field | Details |
 |---|---|
 | **Full Name** | Aaradhya Dev Tamrakar[cite: 9] |
-| **Date of Birth** | January 6, 2005 (Friday, 11:45 PM)[cite: 9] |
+| **Date of Birth** | January 6, 2005 [Friday, 11:45 PM](cite: 9) |
 | **Birthplace** | Chitwan, Nepal[cite: 9] |
-| **Current Location** | Kathmandu, Bagmati Province, Nepal (KEC Boys' Hostel, on-campus)[cite: 9] |
-| **Ethnicity** | Newar (Tamrakar)[cite: 9] |
-| **Family Roots** | Patan (grandfather's origin, near Krishna Mandir), Jhapa (2 pieces of land in Damak — illiquid)[cite: 9] |
+| **Current Location** | Kathmandu, Bagmati Province, Nepal [KEC Boys' Hostel, on-campus](cite: 9) |
+| **Ethnicity** | Newar [Tamrakar](cite: 9) |
+| **Family Roots** | Patan (grandfather's origin, near Krishna Mandir), Jhapa [2 pieces of land in Damak — illiquid](cite: 9) |
 | **Phone** | +977 9844602050[cite: 9] |
 | **LinkedIn** | linkedin.com/in/aaradhya-dev-tamrakar[cite: 9] |
 | **GitHub** | github.com/AaradhyaDT[cite: 9] |
-| **Portfolio** | aaradhyadtmr.github.io (hosted on Netlify + Decap CMS — migrated June 10, 2026)[cite: 9] |
+| **Portfolio** | aaradhyadtmr.github.io [hosted on Netlify + Decap CMS — migrated June 10, 2026](cite: 9) |
 
 ### Vedic Astrology
 
 | | |
 |---|---|
 | **Rashi** | Vrischik (Scorpio) — Scorpio Moon[cite: 9] |
-| **Lagna** | Kanya (Virgo)[cite: 9] |
+| **Lagna** | Kanya [Virgo](cite: 9) |
 | **Nakshatra** | Rohini[cite: 9] |
-| **Mahadasha** | Rahu Mahadasha (Jan 2022 – Jan 2040)[cite: 9] |
+| **Mahadasha** | Rahu Mahadasha [Jan 2022 – Jan 2040](cite: 9) |
 
 ### Planetary Positions
 
@@ -168,7 +173,7 @@ Upload this single file at the start of any Claude session. It contains:
 |---|---|---|
 | **Father** | 53 | Senior Agency Manager, NLIC — client acquisition increasingly difficult[cite: 9] |
 | **Mother** | 48 | Part-time health screening associate, IOM[cite: 9] |
-| **Brother** | 15 | Just completed SEE; moving to Kathmandu for +2 Science (Computer)[cite: 9] |
+| **Brother** | 15 | Just completed SEE; moving to Kathmandu for +2 Science [Computer](cite: 9) |
 
 - 2 pieces of land in **Damak, Jhapa** — family asset, illiquid[cite: 9]
 - **Financial position:** Constrained but stable[cite: 9]. No significant safety net[cite: 9]. Brother arriving adds household pressure[cite: 9].
@@ -177,6 +182,7 @@ Upload this single file at the start of any Claude session. It contains:
 ### Generational Context
 
 **Father's side:**
+
 - Wealthy 4+ generations back
 - Grandfather was the only son — yet received no inheritance
 - Multiple stepmothers entered one after another (fates unconfirmed — left or deceased)
@@ -184,11 +190,13 @@ Upload this single file at the start of any Claude session. It contains:
 - Root cause: outsider entry → abuse/exclusion → inheritance chain broken
 
 **Mother's side:**
+
 - Wealthy 4+ generations back; poverty hit ~2 generations ago
 - Great-grandmother was the 2nd wife — 1st wife had no children; 3rd wife drove the others out, cutting off family support and inheritance
 - Root cause: same mechanism — outsider entry → exclusion → inheritance chain broken
 
 **Pattern recognized across both sides:**
+
 - Identical failure mode, independently on both family lines: an external entrant chose exclusion/abuse over family continuity, severing generational wealth at a single inflection point
 - Not bad luck — deliberate acts of exclusion repeated across both lineages
 - Aaradhya consciously identifies as the generation that breaks this cycle on both lines
@@ -210,21 +218,24 @@ Upload this single file at the start of any Claude session. It contains:
 | Field | Details |
 |---|---|
 | **Institution** | Kathmandu Engineering College (KEC), IOE, Tribhuvan University[cite: 9] |
-| **Degree** | Bachelor of Electronics, Communication and Information Engineering (BEI)[cite: 9] |
+| **Degree** | Bachelor of Electronics, Communication and Information Engineering [BEI](cite: 9) |
 | **Current Level** | Year IV / Part I — 7th Semester[cite: 9] |
 | **Expected Graduation** | January 2027[cite: 9] |
 
 ### Current Subjects (IV/I — 7th Semester)
+
 Wireless Communication · Artificial Intelligence · Organization & Management · Digital Signal Analysis & Processing · RF & Microwave Engineering · **Elective I: EX 725 04 — Aeronautical Telecommunication** ✅ (confirmed) · Project Part A
 
 > **Elective I — CNS alignment confirmed.** Aeronautical Telecommunication covers ATC communications, ILS/VOR/DME/NDB navigation aids, surveillance systems (SSR, ADS-B), ICAO standards, and CNS/ATM frameworks — directly maps to CAAN Nepal and AAI India JE career target. Exam: June 22, 2026.
 
 ### IV/II Subjects (8th Semester — incoming, Sep 2026)
+
 Telecommunications · Professional Practice · Energy, Environment and Society · Information Systems · Elective II (EX 765) · Elective III (EX 785) · Project Part B (Major Project — PrakopNet, deadline March 2027)
 
 > **IV/II Elective strategy (confirm at registration):** Two elective slots. Given CNS/aeronautical path and PrakopNet: Elective II → **Radar Technology (EX 725 01)** or **Satellite Communication (EX 725 02)** if available for IV/II slot. Elective III → **Data Mining (CT 785 02)** (supports PrakopNet ML analytics) or **Remote Sensing (CT 785 01)** (supports GIS/geospatial angle for PrakopNet commercialization). Confirm which options KEC offers for IV/II at registration.
 
 ### IV/I Exam Schedule (2083 — Test 1)
+>
 > **Internal Test 1 context:** Limited syllabus coverage (not full boards). Questions are provided in advance for each subject. Preparation strategy = know the given questions cold, not cover the full syllabus.
 
 | Date (BS) | Date (AD) | Subject |
@@ -238,6 +249,7 @@ Telecommunications · Professional Practice · Energy, Environment and Society �
 | Asar 12 | Jun 26 | Project Part A (no written exam) |
 
 ### Study Resource Assets (assembled June 2026)
+
 - **IV/I Syllabus** — `BEIE_IV_I_Syllabus.md` (all 7 subjects, full topic breakdown)
 - **IV/II Syllabus** — `BEIE_IV_II_Syllabus.md` (all 7 subjects, full topic breakdown)
 - **Full BEI Curriculum** — `BEI_Curriculum_ElectronicsCommunicationInformation.md` (all 8 sems, credit hours, marks)
@@ -246,6 +258,7 @@ Telecommunications · Professional Practice · Energy, Environment and Society �
 - **Study hub template** — `es_ct655_integrated.html` — single-file HTML exam prep hub (CT 655, III/II). Method confirmed effective. Template for IV/I subject hubs.
 
 ### Study Hub Method (from CT 655 / III/II finals)
+
 Single-file HTML per subject: Q-sections mapped to exam slots, frequency map, predictions, past papers, Q&A, quiz, reading roadmap. Method fit for IV/I:
 
 | Subject | Fit | Notes |
@@ -280,8 +293,8 @@ Single-file HTML per subject: Q-sections mapped to exam slots, frequency map, pr
 | **Vice Secretary** | IEEE KEC Student Branch | 2025–2026[cite: 9] |
 | **Resource Manager** | Electronics Project Club (EPC), KEC | 2024–2026[cite: 9] |
 | **Makerspace Ambassador (applied)** | KEC Maker's Space | June 2026–Present (web dev track; grants free 3D printing, laser cutting, materials, 1Gbps WiFi) |
-| **Charter Membership Chairperson** | LEO Club of Damak Gold | Jan 2020 – 2025 (disbanded)[cite: 9] |
-| **2nd Vice President** | LEO Club of Damak Gold | May 2020 – May 2021 (1 yr 1 mo)[cite: 9] |
+| **Charter Membership Chairperson** | LEO Club of Damak Gold | Jan 2020 – 2025 [disbanded](cite: 9) |
+| **2nd Vice President** | LEO Club of Damak Gold | May 2020 – May 2021 [1 yr 1 mo](cite: 9) |
 
 ---
 
@@ -330,6 +343,7 @@ One primary. One secondary. Background only for things that run themselves. Noth
 | Upwork side income | Year 1 (job stable) | Rs. 15–25k/month supplementary |
 
 **Excelerate + OpportunitiesRadar:**
+
 - Excelerate: virtual project-based internships, 4–8 week commitments. Target: AI/ML pipeline or IoT projects. Apply this week; start July post-exams. "Intern at [Company]" reads better than "Freelancer" for CNS/engineering job applications.
 - OpportunitiesRadar: discovery aggregator only. Use weekly to find Nepal-relevant AI/ML, IoT, disaster tech internships and PrakopNet-relevant grant calls.
 
@@ -338,6 +352,7 @@ One primary. One secondary. Background only for things that run themselves. Noth
 The goal is to graduate with a CV that can compete for ML/AI engineering roles at ₹6–12 LPA entry (India is one option under active consideration — not confirmed), and build enough credential mass that any post-graduation move is justified rather than a leap into the dark[cite: 9].
 
 What's currently running:
+
 - **Fusemachines AI Fellowship** (the primary focus): Weeks 1–6 complete; **Week 7 Clustering Assignment in progress (due June 21, 2026)**[cite: 9]. This is the most valuable thing on the CV right now[cite: 9]. Every week's output needs to be real, understood code — not copy-pasted[cite: 9]. Fellowship ends mid-2026[cite: 9].
 - **Portfolio website — CMS migration (June 10, 2026)**: `aaradhyadtmr.github.io` migrated from static GitHub Pages to **Decap CMS + Netlify** architecture. Projects, Experience, and Achievements now managed via CMS UI at `/admin/`. `index.html` refactored to async `loadCMSData()` fetching `/content/projects.json`, `/content/experience.json`, `/content/achievements.json`. `netlify.toml`, `admin/config.yml`, and pre-populated JSON files committed to repo.
 - **IEEE KEC Vice Chair**: Running real events[cite: 9]. SPAx "Engineer Your Profile" happened May 23[cite: 9]. The risk is it becomes a title without substance — must run something that leaves a mark[cite: 9].
@@ -346,6 +361,7 @@ What's currently running:
 - **Algoverse AI Research application**: Deadline May 24[cite: 9]. Research problem: "Efficient Multimodal Reasoning on Edge Devices: Quantization Strategies for Real-Time Gesture Recognition Using Optimized LLMs[cite: 9]." Grounded in live DeepSeek R1 7B on Intel Arc + GCSBR[cite: 9]. If accepted: full-time 8–12 week research block June–Aug 2026[cite: 9]. Targets NeurIPS edge ML workshops / ACL efficiency track[cite: 9].
 
 What's been cancelled or deprioritized:
+
 - **Robotica 6-Month Robotics Technician Program**: Cancelled[cite: 9]. Morning batch conflict, budget, and Algoverse opportunity made it the right cut[cite: 9].
 - **eSewa Android Intern**: Applied May 13[cite: 9]. Outcome unknown[cite: 9]. If not selected: no disruption — it was an opportunistic application, not the plan[cite: 9].
 
@@ -382,28 +398,31 @@ NI cert sequence (if AI/ML engineering path): CLAD post-fellowship (mid-2026, 6 
 ## 🛠️ Projects
 
 ### 1. Gesture-Controlled Self-Balancing Robot (GCSBR) — Minor Project *(Completed)*
+
 **Stack:** Computer Vision · Arduino · MPU6050 · Stepper Motors · Android · MATLAB[cite: 9]
 **Rating: 9.4/10 — Examiner called it "major project level"**[cite: 9]
 
 - Sensor fusion + PID stabilization + mobile gesture control[cite: 9]
 - Firmware V6.9.1: watchdog timer, atomic writes, differential ramp, integrator bleed[cite: 9]
 - MATLAB simulation → real-world hardware deployment[cite: 9]
-- Android gesture-control interface (MediaPipe, CameraX, HC-05 BT)[cite: 9]
+- Android gesture-control interface [MediaPipe, CameraX, HC-05 BT](cite: 9)
 - Dual-hand gesture control; DRV8825 drivers on CNC Shield[cite: 9]
 - GitHub: `AaradhyaDT/Gesture-Controlled-Self-Balancing-Robot`[cite: 9]
 
 ### 2. Text-to-SQL Agentic Pipeline (Fusemachines Week 3) *(Completed)*
+
 **Stack:** Python · FastAPI · Streamlit · PostgreSQL · Docker · OpenAI API · Prompt Chaining[cite: 9]
 **Rating: 8.7/10**[cite: 9]
 
 - Production-grade automated Text-to-SQL pipeline and state-based FastAPI SQL Agent over `classicmodels` PostgreSQL database[cite: 9]
-- Modular agent workflow: Planner → Generator → Validator → Executor → Summarizer with self-correction (up to 3 retries)[cite: 9]
+- Modular agent workflow: Planner → Generator → Validator → Executor → Summarizer with self-correction [up to 3 retries](cite: 9)
 - Vanilla Python prompt-chaining with GPT-4o-mini, rule-based SQL safety validation (blocking DML/DDL), structured JSON query logging[cite: 9]
 - **100.0% execution success rate and 100.0% result accuracy** on 50-question benchmark, zero retries required[cite: 9]
 - Streamlit chat interface + Docker/Docker Compose containerization[cite: 9]
 - GitHub: `AaradhyaDT/fuseAiF_wk3_text2sql`[cite: 9]
 
 ### 3. Telco Customer Churn & CLV Machine Learning Pipeline (Fusemachines Week 4) *(Completed)*
+
 **Stack:** Python · Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · Papermill[cite: 9]
 **Rating: 8.5/10**[cite: 9]
 
@@ -416,39 +435,43 @@ NI cert sequence (if AI/ML engineering path): CLAD post-fellowship (mid-2026, 6 
 - GitHub: `AaradhyaDT/FUSE_AIF_2026_M1` (under `WK4/`)[cite: 9]
 
 ### 4. Telco Churn Tree-Based Ensemble Pipeline (Fusemachines Week 5) *(Completed)*
+
 **Stack:** Python · Scikit-learn · XGBoost · imbalanced-learn · SHAP · Joblib · Matplotlib[cite: 9]
 **Rating: 9.0/10**[cite: 9]
 
-- End-to-end classification pipeline on Telco Customer Churn (7,043 rows, ~27% positive rate, binary target)[cite: 9]
-- Models: Random Forest + XGBoost benchmarked against naïve baseline; AUROC, Precision, Recall, F1 as primary metrics (accuracy trap exposed)[cite: 9]
+- End-to-end classification pipeline on Telco Customer Churn [7,043 rows, ~27% positive rate, binary target](cite: 9)
+- Models: Random Forest + XGBoost benchmarked against naïve baseline; AUROC, Precision, Recall, F1 as primary metrics [accuracy trap exposed](cite: 9)
 - Full Scikit-learn `ColumnTransformer` pipeline for mixed dtypes (numeric scaling + categorical encoding); `ImbPipeline` (imbalanced-learn) ensures SMOTE restricted to training folds only — zero preprocessing leakage[cite: 9]
 - Hyperparameter tuning via Grid Search / Bayesian optimisation on XGBoost; documented most impactful hyperparameter[cite: 9]
 - SHAP global summary plot (Q15) + local waterfall/force plot (Q16); 2-sentence retention recommendation for specific at-risk customer[cite: 9]
 - Production serialization: full fitted pipeline (ColumnTransformer + SMOTE + model) saved via `joblib` as `telco_churn_pipeline_v1.joblib`[cite: 9]
-- Secondary regression task: `tenure` prediction (regression model)[cite: 9]. Defined target and feature matrix, dropped `TotalCharges` leakage column to prevent mathematically defined correlation leakage[cite: 9].
+- Secondary regression task: `tenure` prediction [regression model](cite: 9). Defined target and feature matrix, dropped `TotalCharges` leakage column to prevent mathematically defined correlation leakage[cite: 9].
 - Trained unconstrained Decision Tree Regressor vs regularized XGBoost Regressor[cite: 9]. Plotted learning curves using 5-fold cross-validation showing overfitting in the unpruned baseline vs generalization in the XGBoost regressor[cite: 9].
-- Verified tree model predictions are strictly bounded by the training range maximums (extrapolation check)[cite: 9].
+- Verified tree model predictions are strictly bounded by the training range maximums [extrapolation check](cite: 9).
 - Model Card (Q18) completed with real metric values[cite: 9]
 - GitHub: `AaradhyaDT/fuseAiF_wk5_telco_churn_ensembles`[cite: 9]
 
 ### 5. Alpha Android Super-App *(Active)*
+
 **Stack:** Kotlin · Jetpack Compose · Material3 · DataStore · Apache POI[cite: 9]
 **Rating: 8.2/10 — Primary shipping target**[cite: 9]
 
 - Modular super-app (`com.alpha`, SDK 36, Astronomus font)[cite: 9]
-- Modules: SBR gesture control (MediaPipe, CameraX, HC-05 BT) · Multi-mode calculator (STD / PROG / LOGIC) · Settings (DataStore) · Budget Tracker (eSewa parser, Apache POI, DataStore persistence — Google Drive backup in progress)[cite: 9]
+- Modules: SBR gesture control (MediaPipe, CameraX, HC-05 BT) · Multi-mode calculator (STD / PROG / LOGIC) · Settings (DataStore) · Budget Tracker [eSewa parser, Apache POI, DataStore persistence — Google Drive backup in progress](cite: 9)
 - Location: `D:\Android\Projects`[cite: 9]
 
 ### 6. Edge AI Stability Detection System *(Completed)*
+
 **Stack:** Python · Scikit-learn · FastAPI · Joblib[cite: 9]
 **Rating: 7.8/10**[cite: 9]
 
-- ML system predicting platform stability from simulated IMU sensor data (tilt_x, tilt_y, angular velocity)[cite: 9]
+- ML system predicting platform stability from simulated IMU sensor data [tilt_x, tilt_y, angular velocity](cite: 9)
 - 10,000-sample synthetic dataset; Random Forest classifier — **99.8% test accuracy**[cite: 9]
 - REST API via FastAPI for real-time predictions; Joblib export for robotics integration[cite: 9]
 - GitHub: `AaradhyaDT/stability-ai-system`[cite: 9]
 
 ### 7. SysOptimizer — Windows Optimization Tool *(v5 Active)*
+
 **Stack:** Python · CustomTkinter · PyInstaller · WMI · PowerShell[cite: 9]
 **Rating: 7.6/10**[cite: 9]
 
@@ -475,6 +498,7 @@ Nepal legal band: **865–867 MHz** (IN865-867 channel plan, NTA). Max 1W TX / 4
 LoRa RA-02 (SX1276, 410–525 MHz / 433 MHz variant) **removed** from BOM — 433 MHz ERP limit invalidates range claims. Replaced with **RYLR890 (868 MHz, UART AT commands)**. Also: HC-SR04 → JSN-SR04T (waterproof); TP4056 → CN3791 (solar-rated charge controller); INA219 current sensor added (power budget measurement, thesis contribution).
 
 **Nepal hardware availability (updated June 10, 2026):**
+
 | Component | Source | Availability |
 |---|---|---|
 | ESP32-WROOM-32 (DevKit V1) | Himalayan Solution, Breadfruit | ✅ Local, same-day |
@@ -495,6 +519,7 @@ LoRa RA-02 (SX1276, 410–525 MHz / 433 MHz variant) **removed** from BOM — 43
 | Weatherproof enclosures | 3D print (KEC Makerspace) | ✅ Makerspace |
 
 **Fusemachines fellowship → PrakopNet skill mapping (confirmed June 10, 2026):**
+
 | Fellowship Output | PrakopNet Role |
 |---|---|
 | LSTM (Wk4 CLV time-series) | Core edge inference: sensor time-series → hazard score |
@@ -506,6 +531,7 @@ LoRa RA-02 (SX1276, 410–525 MHz / 433 MHz variant) **removed** from BOM — 43
 | PC-side pipeline discipline | Training → TFLite quantization → ESP32 deployment chain |
 
 **Team ownership (locked — see team split table above):**
+
 - Firmware/hardware node + LoRa mesh + gateway hardware: **Rupesh** (primary) + **Sankalpa** (hardware assembly, solar, 3D design)
 - ML pipeline (training → quantize → TFLite deploy) + HazardScore fusion + LaTeX thesis: **Aaradhya**
 - Backend (FastAPI) + grant writing: **Aaradhya** (secondary)
@@ -513,11 +539,13 @@ LoRa RA-02 (SX1276, 410–525 MHz / 433 MHz variant) **removed** from BOM — 43
 - Report/documentation co-lead (thesis structure, section drafts): **Sonia** (secondary)
 
 **Architecture:**
+
 - **Sensor Nodes:** ESP32 DevKit V1 + RYLR890 (LoRa 868 MHz, UART AT commands) + GPS (Neo-6M) + Solar subsystem (6V 5W panel → CN3791 charge controller → 18650 ×2 parallel → MT3608 boost → 5V) + INA219 power monitor + environmental sensors
 - **Gateway:** Raspberry Pi 4B (4GB RAM) + RYLR890 (UART) + dashboard server + PostgreSQL + AI processing
 - **AI Layer:** Federated TFLite Micro on ESP32 nodes (local binary anomaly decision) + LSTM at gateway (multi-sensor time-series → HazardScore) + TFLite runtime at gateway
 
 **Modular Sensor Modules:**
+
 - Module A — Flood: ultrasonic water level sensor
 - Module B — Landslide: MPU6050 + optional geophone
 - Module C — Air Quality: MQ135 + PM2.5
@@ -526,11 +554,13 @@ LoRa RA-02 (SX1276, 410–525 MHz / 433 MHz variant) **removed** from BOM — 43
 - Module F — Structural Health: strain gauges, vibration sensors
 
 **Build Phases:**
+
 - Phase 1: ESP32 + LoRa + GPS + MPU6050 + DHT22 + solar subsystem → basic network
 - Phase 2: Water level + rainfall monitoring
 - Phase 3: Geophone + GSM backup + PM2.5
 
 **Assessment:**
+
 | Dimension | Current | Target |
 |---|---|---|
 | Academic Value | 9/10 | 9.5/10 |
@@ -553,6 +583,7 @@ ESP32 + LoRa SX1278 + Neo-6M GPS + Solar + 18650 per node · RPi 4B as gateway �
 | **GPS-fenced alert zones** — lat/lon polygon per deployment zone; alert propagates only if anomaly falls within boundary | 🟡 7 | 2–3 hrs (point-in-polygon) | Reduced false positives; commercial pitch strength |
 
 **Scope cuts:**
+
 - Modules E (Wildfire) and F (Structural Health) → document as future work
 - Geophone → MPU6050 covers the need; document as upgrade option
 - GSM backup → LoRa mesh handles graceful degradation; document as future work
@@ -561,11 +592,13 @@ ESP32 + LoRa SX1278 + Neo-6M GPS + Solar + 18650 per node · RPi 4B as gateway �
 - Module D (Weather): DHT22 + one rain sensor only
 
 **Research novelty fix strategy (7.5 → 8.5+):**
+
 1. **Literature gap statement (Chapter 1):** "Existing LoRa-based EWS address single-hazard monitoring in isolation. No published system demonstrates multi-hazard fusion with edge-computed composite risk scoring, GPS-tagged anomaly localization, distributed ESP32 TFLite inference, and solar-powered autonomous mesh operation validated in South Asian deployment contexts." Each clause independently verifiable on IEEE Xplore.
 2. **Real sensor data for LSTM:** Deploy ≥1 node for 2–4 weeks before thesis submission (Oct–Nov 2026). Even 2 weeks of clean time-series is sufficient for anomaly threshold calibration. Real-data LSTM = a result; synthetic LSTM = background method.
 3. **Measured power budget as standalone contribution:** Current draw at deep sleep / sensor active / LoRa TX (measure with multimeter); panel output hourly log; battery endurance calculated + measured → "Node X operates autonomously for Y days on Z mAh at Nepal average irradiance."
 
 **Makerspace deliverables:**
+
 - 3D printing: weatherproof node enclosures (IP54+ minimum) — separate compartments for battery, sensor, electronics; cable glands; solar panel mounting tab; snap-fit lid with gasket channel. Gateway housing (RPi 4B + LoRa hat, vented semi-outdoor).
 - Laser cutting: pole/fence mounting bracket for field deployment; internal node chassis to fix sensor positions (reduces MPU6050 mechanical noise); acrylic gateway display panel.
 - 1Gbps WiFi: full Docker stack (PostgreSQL + FastAPI + Streamlit) locally; real-time data streaming tests; heavy LSTM training without bandwidth constraint.
@@ -578,6 +611,7 @@ PrakopNet landing page: 2–3 hours on portfolio stack; host on GitHub Pages; us
 Grant applications (submit Oct 2026): UNDP Nepal Innovation Challenge · NRCS innovation calls · Social Alpha · Rockefeller ACCRN.
 
 **8th Semester Execution Timeline (Sep 2026 → Mar 2027):**
+
 | Month | Phase | Deliverables |
 |---|---|---|
 | September | Core hardware build | 2 nodes assembled + LoRa link established + gateway running + basic dashboard live |
@@ -591,6 +625,7 @@ Grant applications (submit Oct 2026): UNDP Nepal Innovation Challenge · NRCS in
 **Rule:** Each month has one deliverable that must work before next month starts. No month N+1 work begins until month N deliverable is demonstrated.
 
 **Team role split (8th semester — locked):**
+
 | Member | Primary | Secondary |
 |---|---|---|
 | **Aaradhya** | TFLite micro (ESP32 nodes) + LSTM training (gateway) + HazardScore fusion + LaTeX thesis | Dashboard backend + grant writing |
@@ -602,6 +637,7 @@ Grant applications (submit Oct 2026): UNDP Nepal Innovation Challenge · NRCS in
 🔴 1 — Federated TFLite inference (no drop) · 🔴 2 — Real sensor data for LSTM (no drop) · 🔴 3 — 3D printed weatherproof enclosures (no drop) · 🟠 4 — HazardScore fusion (drop → future work) · 🟠 5 — Solar telemetry dataset (drop → secondary) · 🟡 6 — Adaptive LoRa SF · 🟡 7 — GPS-fenced zones · 🟢 8 — PrakopNet landing page (fast, 2–3 hrs) · 🟢 9 — Grant applications (submit ≥1)
 
 **Key documents:**
+
 - `MASTER_MajorProject_ChronologicalMerge_v3_20260610.md` — full 11-file timeline merge (current; v3 adds Phase 6: feasibility + LoRa compliance + full BOM)
 - `PROJECT_D_EVOLUTION_MASTER_v1_20260602.md` — commercialization architecture
 - `TEAM_PROFILE_SYSTEM_v11_20260610.md` — consolidated team profiles (individual files deprecated; PrakopNet roles + full skill matrix)
@@ -611,16 +647,19 @@ Grant applications (submit Oct 2026): UNDP Nepal Innovation Challenge · NRCS in
 Was primary at ~85% confidence as of June 2, 2026. Architecture: RTL-SDR + RPi 4B → ESP32 + INMP441 TFLite acoustic nodes → ESP32-CAM YOLO-nano → LoRa alert mesh → Flask + SQLite + Android. Archived in favour of PrakopNet due to stronger commercial/completion profile. Full spec in IDEATION_MasterConsolidated_v3.
 
 ### 9. Custom Processor FSM Design *(Completed — Coursework)*
+
 **Stack:** VHDL · Vivado 2023.2[cite: 9]
 **Rating: 6.8/10**[cite: 9]
 
 - VHDL implementation of a custom processor datapath and FSM for GCD and exponentiation operations[cite: 9]
-- Simulated and verified in Vivado 2023.2 (Embedded Systems coursework)[cite: 9]
+- Simulated and verified in Vivado 2023.2 [Embedded Systems coursework](cite: 9)
 
 ### 10. Fusemachines AI Fellowship Prep Toolkit *(Completed)*[cite: 9]
-- 50-question mock exam widget + 7-tab interactive HTML cheatsheet (linear algebra, calculus, probability, Python/CS, ML)[cite: 9]
+
+- 50-question mock exam widget + 7-tab interactive HTML cheatsheet [linear algebra, calculus, probability, Python/CS, ML](cite: 9)
 
 ### 11. Fusemachines Week 6 Probabilistic Models Assignment *(Completed)*
+
 **Stack:** Python · PyMC · ArviZ · pgmpy · scikit-learn · Pandas · Matplotlib · Seaborn[cite: 9]
 
 - Week 6 repository structure confirmed: `W6_Probabilistic_Models_Assignment.ipynb`, `W6_TaskPlan.md`, `TASK_PROGRESS.md`, and `W6_Probabilistic_Models_Resource_Guide.pdf`.
@@ -629,6 +668,7 @@ Was primary at ~85% confidence as of June 2, 2026. Architecture: RTL-SDR + RPi 4
 - Portfolio entry live on `aaradhyadtmr.github.io` under Projects.
 
 ### 14. Fusemachines Week 7 Clustering Assignment *(In Progress — due June 21, 2026)*
+
 **Stack:** Python · scikit-learn · scipy · Pandas · NumPy · Matplotlib · Seaborn · NearestNeighbors
 **Dataset:** UCI Online Retail II (~500,000 transactions, `Year 2010-2011` sheet)
 
@@ -639,9 +679,11 @@ Was primary at ~85% confidence as of June 2, 2026. Architecture: RTL-SDR + RPi 4
 - **Submission:** Single `.ipynb` with all cells executed.
 
 ### 12. Antenna Lab Data Analysis[cite: 9]
-- Python script for antenna radiation pattern from Excel[cite: 9]. Pandas, NumPy, Matplotlib (polar), SciPy (cubic interpolation)[cite: 9].
+
+- Python script for antenna radiation pattern from Excel[cite: 9]. Pandas, NumPy, Matplotlib (polar), SciPy [cubic interpolation](cite: 9).
 
 ### 13. Nexus — Personal AI Operating System *(Active — started June 10, 2026)*
+
 **Stack:** React (Vite) · FastAPI · PostgreSQL · ChromaDB · httpx · asyncio
 **Repo:** `AaradhyaDT/nexus` · **License:** MIT
 
@@ -652,6 +694,7 @@ Was primary at ~85% confidence as of June 2, 2026. Architecture: RTL-SDR + RPi 4
 **Core concept:** One prompt → one project context → multiple model outputs (parallel fan-out) → centralized persistent memory.
 
 **Architecture (confirmed):**
+
 ```
 React Frontend (localhost:5173)
         ↓ REST / WebSocket
@@ -666,14 +709,17 @@ FastAPI Backend (localhost:8000)
    Model Router
 Claude · Gemini · OpenAI · Ollama
 ```
+
 *Redis optional — use in-memory dict for MVP.*
 
 **Orchestration patterns:**
+
 - **Pattern A — Parallel fan-out** (comparison/validation): `asyncio.gather(*[call_model(m, prompt) for m in models])`
 - **Pattern B — Sequential pipeline** (complex tasks): Router → Model A → Model B → Model C
 - Routing: rule-based (task_type → model) for MVP; LLM meta-router in v2
 
 **MVP scope (8 weeks, nightly sessions):**
+
 | Feature | MVP |
 |---|---|
 | Project workspaces (create/switch) | ✅ |
@@ -688,23 +734,27 @@ Claude · Gemini · OpenAI · Ollama
 | Automatic task routing | ❌ v2 |
 
 **8-week nightly build plan:**
+
 - W1–2: FastAPI backend + DB schema + model adapter layer
 - W3–4: React frontend + workspace UI + multi-model chat
 - W5–6: Parallel fan-out + ChromaDB RAG integration
 - W7–8: Polish + demo video + technical writeup
 
 **Day 1 status (June 10, 2026 — completed):**
+
 - Backend: `main.py` with `/query` POST endpoint, `call_claude()` + `call_gemini()` via httpx async, `asyncio.gather()` fan-out, CORS middleware, `.env` key loading
 - Frontend: Vite React `App.jsx` — textarea, "Ask both" button, side-by-side Claude/Gemini results
 - Done state: `localhost:5173` → prompt → both models respond in parallel ✅
 
 **Day 2 (next session):** Postgres layer
+
 1. `projects` table: `id, name, created_at`
 2. `messages` table: `id, project_id, prompt, claude_response, gemini_response, timestamp`
 3. Project selector dropdown in frontend
 4. Auto-save every query to DB
 
 **Key risks:**
+
 | Risk | Mitigation |
 |---|---|
 | API cost blowup from fan-out | Cost estimator + budget cap per project |
@@ -713,6 +763,7 @@ Claude · Gemini · OpenAI · Ollama
 | Completion gap (known pattern) | Treat each nightly session like a fellowship deadline |
 
 **Portfolio angle:**
+
 - Benchmark router: show routing improves output quality vs. single-model baseline (measurable)
 - SHAP/observability: log model chosen, why, outcome quality
 - Technical writeup: "Multi-model orchestration layer with task-aware routing"
@@ -749,7 +800,7 @@ Claude · Gemini · OpenAI · Ollama
 
 ## 🌐 Portfolio Website — aaradhyadtmr.github.io
 
-- Single-file `index.html` — DATA-driven architecture for static sections (Hero, Skills, About, Contact)[cite: 9]
+- Single-file `index.html` — DATA-driven architecture for static sections [Hero, Skills, About, Contact](cite: 9)
 - **Projects, Experience, Achievements** now served from `/content/*.json` — edited via Decap CMS UI, no code changes needed
 - **Hosting:** Netlify (migrated from GitHub Pages, June 10, 2026) — deploy on every CMS commit (~30s)
 - **CMS URL:** `yoursite.netlify.app/admin/` — Netlify Identity auth (invite-only)
@@ -785,6 +836,7 @@ Claude · Gemini · OpenAI · Ollama
 **Scroll % progress indicator (May 30):** Translucent readout `47%` sits 2.9rem below the back-to-top button. Shows/hides at same >400px scroll threshold with slide-up transition. DM Mono, 0.56rem, `opacity: 0.7`, no background. Mobile: shifts right (`right: 1.5rem`) matching button offset. `aria-hidden="true"` — decorative only.
 
 **Performance compositor fixes (May 30, v66):**
+
 - **GA4 deferred:** `<script async src="gtag/js">` removed from `<head>`; GA4 loaded via `createElement('script')` inside `window.addEventListener('load')` → eliminates ~80ms main-thread parse block on FCP.
 - **photo.png preloaded:** `<link rel="preload" as="image" href="photo.png">` before fonts → LCP asset fetched in parallel; targets ~0.8–1.2s LCP reduction.
 - **Scroll progress bar composited:** `width: 0% → 100%` + `transform: scaleX(0)` from `transform-origin: left`; JS uses `style.transform = 'scaleX(N)'`; `will-change: transform`; `@keyframes gradient-flow` + `background-position` animation removed.
@@ -825,22 +877,26 @@ Claude · Gemini · OpenAI · Ollama
 *Via NSSR Cohort 2 Premium license.*[cite: 8]
 
 ### Phase 1 — Completed (Applied AI)
-- Fully mastered programmatically guided GenAI modules spanning 6 real-world environments[cite: 8]. 
+
+- Fully mastered programmatically guided GenAI modules spanning 6 real-world environments[cite: 8].
 - Engineered constraint-handling prompts, custom recommendation architectures, automated text analytics pipelines, and structured programmatic data cleaning workflows[cite: 1, 3, 5, 7].
 
 ### Phase 2 — Now → June 2026
+
 | Cert | Status |
 |---|---|
-| SQL Associate | ⏳ Pathway underway (Data Manipulation in SQL, PostgreSQL Summary Stats)[cite: 8] |
-| Python Data Associate | ⏳ Pathway underway (Pandas, Statistical Thinking, scikit-learn)[cite: 8] |
+| SQL Associate | ⏳ Pathway underway [Data Manipulation in SQL, PostgreSQL Summary Stats](cite: 8) |
+| Python Data Associate | ⏳ Pathway underway [Pandas, Statistical Thinking, scikit-learn](cite: 8) |
 
 ### Phase 3 — June → Sept 2026 (post-fellowship)
+
 | Cert | Notes |
 |---|---|
 | Data Engineer | Fuse Wk2 (Docker+PG+FastAPI+asyncio) = pre-built proof-of-work[cite: 9] |
-| Data Scientist + AI | Flagship; via Associate Data Scientist in Python track (22 courses)[cite: 9] |
+| Data Scientist + AI | Flagship; via Associate Data Scientist in Python track [22 courses](cite: 9) |
 
 ### Phase 4 — Pre-graduation (Oct 2026 – Jan 2027)
+
 | Cert | Notes |
 |---|---|
 | AI Engineer for Developers | Developer-background path; best after Fuse ends[cite: 9] |
@@ -859,7 +915,9 @@ Claude · Gemini · OpenAI · Ollama
 ## 🛠️ Fellowships & Recognitions Updates (CV Section View)
 
 ### NSSR DataCamp Fellow — Cohort 2 (Active) | 2026 – Present
+
 *Nepalese Society of Student Researchers*[cite: 8]
+
 - Selected for fully-sponsored DataCamp Premium pathway covering advanced industrial AI/ML systems[cite: 8].
 - **GenAI Portfolio:** Architected 6 live projects spanning multi-variable prompt planning, customer constraint-driven skin profile recommenders, and automated market scaling logic[cite: 1, 5, 7, 8].
 - **AI Preprocessing Automation:** Developed LLM prompting workflows to automate programmatic dataset transformations, filtering null fields, handling formatting discrepancies, and stripping data leakage[cite: 3].
@@ -870,32 +928,41 @@ Claude · Gemini · OpenAI · Ollama
 ## 🧠 Skills & Stack
 
 ### Programming
+
 Python · C · C++ · Kotlin · SQL (PostgreSQL / SQLite) · VHDL[cite: 9]
 
 ### Machine Learning
+
 scikit-learn · NumPy · Pandas · Random Forest · XGBoost · Logistic Regression · Ridge Classifier/Regressor · SGD Classifier · Lasso · ElasticNet · SMOTE (ImbPipeline) · SHAP (global + local) · GridSearchCV · Bayesian Optimisation · Stratified K-Fold CV · Learning Curves · Model Leakage Analysis · Joblib Pipeline Serialization · PyMC · ArviZ · pgmpy · Bayesian Inference (MLE/MAP/full Bayes) · Probabilistic Graphical Models · Gaussian Process Regression · **K-Means Clustering (elbow, silhouette, k-means++ vs random init)** · **Agglomerative Clustering (Ward/Complete/Single linkage, dendrogram analysis)** · **DBSCAN (ε estimation via k-distance plot, noise analysis)** · **Cluster Validation (Silhouette Score, Davies-Bouldin Index, Calinski-Harabasz Index)** · **RFM Feature Engineering**[cite: 9]
 
 ### Android Development
+
 Kotlin · Jetpack Compose · Material3 · DataStore · CameraX · MediaPipe · Apache POI[cite: 9]
 
 ### Deployment
+
 FastAPI · REST APIs · Docker · Docker Compose · PostgreSQL · Streamlit · Papermill · Asyncio · Joblib[cite: 9]
 
 ### Embedded Systems & Digital Design
+
 Arduino · MPU6050 · CNC Shield · DRV8825 · Stepper Motors · HC-05 BT · UART · FPGA · Vivado 2023.2[cite: 9]
 
 ### AI / Local LLM / Prompt Engineering
-Ollama · ipex-llm · DeepSeek R1 7B (29 layers on Intel Arc iGPU) · Prompt Chaining & Agentic Query Systems (Planner-Generator-Validator loops)[cite: 9] · Advanced Context-Constraint Prompt Architecture[cite: 5, 7] · GenAI Automated Preprocessing Pipelines[cite: 3].
+
+Ollama · ipex-llm · DeepSeek R1 7B (29 layers on Intel Arc iGPU) · Prompt Chaining & Agentic Query Systems [Planner-Generator-Validator loops](cite: 9) · Advanced Context-Constraint Prompt Architecture[cite: 5, 7] · GenAI Automated Preprocessing Pipelines[cite: 3].
 
 ### Tools
+
 Git · GitHub · VS Code · Jupyter Notebook · Google Colab · MATLAB · LaTeX / Overleaf · Graphify[cite: 9]
 
 ### System Setup
+
 - **Device:** Acer Swift Go 16 — Intel Core Ultra 7 155H, 16GB LPDDR5X, Intel Arc iGPU[cite: 9]
 - **OS:** Windows 11 + Ubuntu dual-boot on D:[cite: 9]
 - **Optimal iGPU VRAM alloc:** 4 GB[cite: 9]
 
 ### Local Ollama Models (as of June 2026)
+
 | Model | Size | Notes |
 |---|---|---|
 | deepseek-r1:7b | ~4.7 GB | Primary; 29 layers on Intel Arc iGPU |
@@ -905,6 +972,7 @@ Git · GitHub · VS Code · Jupyter Notebook · Google Colab · MATLAB · LaTeX 
 Total: ~14.4 GB. Removing unused models frees significant C: space.
 
 ### C: Drive Storage Notes (June 2026)
+
 - **Total:** 567 GB used / 702 GB total — 134 GB free
 - **Biggest hog:** `C:\Users\Aaradhya\Misc Aaradhya\IDM\` — ~35.96 GB (accumulated IDM downloads over months; sort by size and purge old installers/media)
 - **Quick wins already identified:** Recycle Bin (3.7 GB) · hiberfil.sys (6.3 GB via `powercfg /hibernate off`) · Ollama unused models (~5–9 GB) · Downloads Big Files duplicates (~8–10 GB)
@@ -919,30 +987,34 @@ Total: ~14.4 GB. Removing unused models frees significant C: space.
 - **IEEEXtreme 19.0** — Oct 25, 2025. Team: ShadowXTREME. ✅ LinkedIn[cite: 9]
 - **NepaTronix 3-Day Drone Training** — May 2–4, 2026. Rs. 5,000. ✅ LinkedIn[cite: 9]
 - **AWS Cloud Computing Workshop** — KEC IT Club (2025). ✅ LinkedIn[cite: 9]
-- **NEC License Exam Mock Test (BCT version)** — Scored 97/100 (May 10, 2026)[cite: 9]
-- PreXtreme Competitive Programming Workshop — IEEE Pulchowk (2025)[cite: 9]
-- Git & GitHub Workshop — KEC IT Club (2024)[cite: 9]
+- **NEC License Exam Mock Test (BCT version)** — Scored 97/100 [May 10, 2026](cite: 9)
+- PreXtreme Competitive Programming Workshop — IEEE Pulchowk [2025](cite: 9)
+- Git & GitHub Workshop — KEC IT Club [2024](cite: 9)
 
 ---
 
 ## 🎵 Personal Interests & Life
 
 ### LEO Club (Lions International)
+
 - **LEO Club of Damak Easternline** — origin club (~2074 B.S. / Class 8); where LEO journey began[cite: 9]
 - **LEO Club of Damak Gold** — Charter Membership Chairperson (Jan 21, 2020); 2nd Vice President (May 2020 – May 2021); club disbanded ~2025[cite: 9]
 - 5+ years continuous LEO involvement across two clubs; part of founding/charter team at Damak Gold[cite: 9]
 - Leadership predates engineering college career — earliest documented organizational role[cite: 9]
 
 ### Music
+
 - Member, KEC Music Club[cite: 9]. Plays guitar; solo performance experience[cite: 9].
 - Top duet picks: "Kabira", "Nai Nabhannu La", "Thamana Haat Yo"[cite: 9]
 
 ### Perfumery
+
 - **"Peace in a Bottle"** — bespoke 10ml extrait at 21.1% concentration[cite: 9]
-  - Formula: Spring (0.80ml), Vanilla Sexy (0.72ml), Bergamot (0.59ml), solvent (~7.89ml)[cite: 9]
+  - Formula: Spring (0.80ml), Vanilla Sexy (0.72ml), Bergamot (0.59ml), solvent [~7.89ml](cite: 9)
   - Cost: NRs 1,100 at Poshon.np. ~100–120 uses remaining[cite: 9].
 
 ### Motorcycles
+
 - Interest: 2020–2022 Yamaha FZS FI V2/V3, under Rs. 2 lakhs, daily commute focus[cite: 9]
 
 ---
@@ -979,9 +1051,10 @@ Total: ~14.4 GB. Removing unused models frees significant C: space.
 
 **The high ceiling outcome:** PrakopNet lands a DHM or NGO contract within 2 years of graduation. One shipped product changes the entire trajectory[cite: 9].
 
-**Optimal play:** CNS/engineering job (income floor) + PrakopNet side-tracked commercialization (upside) → funded or experienced-backed Masters (Year 3–5, not immediately)[cite: 9].
+**Optimal play:** CNS/engineering job (income floor) + PrakopNet side-tracked commercialization (upside) → funded or experienced-backed Masters [Year 3–5, not immediately](cite: 9).
 
 ### What matters in the next 18 months (in order)
+
 1. **Finish something that ships** — PrakopNet functional demo by March 2027 boards[cite: 9]
 2. **Make Fusemachines count** — visible, contributing, known by leadership; every week's code understood[cite: 9]
 3. **Don't let IEEE become a title** — run something real at SPAx and beyond[cite: 9]
@@ -993,7 +1066,8 @@ Total: ~14.4 GB. Removing unused models frees significant C: space.
 
 To switch the Graphify workspace from the default AST‑only extraction to **Semantic LLM mode**:[cite: 9]
 
-1. **Obtain a Gemini API key** – sign up at https://ai.google.dev and generate a `GEMINI_API_KEY`[cite: 9].
+1. **Obtain a Gemini API key** – sign up at <https://ai.google.dev> and generate a `GEMINI_API_KEY`[cite: 9].
 2. **Set the environment variable** (PowerShell):[cite: 9]
+
 ```powershell
    $env:GEMINI_API_KEY="YOUR_KEY_HERE"
