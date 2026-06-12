@@ -1,16 +1,16 @@
 # Graph Report - WK7  (2026-06-12)
 
 ## Corpus Check
-- 13 files · ~62,401 words
+- 35 files · ~65,563 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 144 nodes · 131 edges · 22 communities (21 shown, 1 thin omitted)
+- 166 nodes · 131 edges · 44 communities (43 shown, 1 thin omitted)
 - Extraction: 99% EXTRACTED · 1% INFERRED · 0% AMBIGUOUS · INFERRED: 1 edges (avg confidence: 0.9)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `8ca1ccb2`
+- Built from commit: `06710434`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -54,7 +54,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (22 total, 1 thin omitted)
+## Communities (44 total, 1 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.12
@@ -113,11 +113,11 @@ Nodes (7): Next Steps, Notes, Overall Status, Remaining Work, Summary, Task Plan
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `AARADHYA DEV TAMRAKAR — Master Profile v91` connect `Community 1` to `Community 3`, `Community 4`, `Community 6`, `Community 7`, `Community 8`, `Community 9`, `Community 10`?**
-  _High betweenness centrality (0.280) - this node is a cross-community bridge._
+  _High betweenness centrality (0.210) - this node is a cross-community bridge._
 - **Why does `🛠️ Projects` connect `Community 3` to `Community 1`?**
-  _High betweenness centrality (0.099) - this node is a cross-community bridge._
+  _High betweenness centrality (0.074) - this node is a cross-community bridge._
 - **Why does `🧠 Skills & Stack` connect `Community 4` to `Community 1`?**
-  _High betweenness centrality (0.072) - this node is a cross-community bridge._
+  _High betweenness centrality (0.054) - this node is a cross-community bridge._
 - **What connects `🔄 Cross-Document Consistency Check (AUTO-TRIGGER)`, `Siddhartha Bank (SBL)`, `Planned Subscriptions` to the rest of the system?**
   _106 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**

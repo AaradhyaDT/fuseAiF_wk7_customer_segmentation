@@ -4,6 +4,24 @@
   "graph": {},
   "nodes": [
     {
+      "label": "compute_dbscan_eps.py",
+      "file_type": "code",
+      "source_file": "compute_dbscan_eps.py",
+      "source_location": "L1",
+      "id": "compute_dbscan_eps",
+      "community": 22,
+      "norm_label": "compute_dbscan_eps.py"
+    },
+    {
+      "label": "dump_nb_cells.py",
+      "file_type": "code",
+      "source_file": "dump_nb_cells.py",
+      "source_location": "L1",
+      "id": "dump_nb_cells",
+      "community": 23,
+      "norm_label": "dump_nb_cells.py"
+    },
+    {
       "label": "enhance_notebook.py",
       "file_type": "code",
       "source_file": "enhance_notebook.py",
@@ -13,6 +31,24 @@
       "norm_label": "enhance_notebook.py"
     },
     {
+      "label": "evaluate_clustering.py",
+      "file_type": "code",
+      "source_file": "evaluate_clustering.py",
+      "source_location": "L1",
+      "id": "evaluate_clustering",
+      "community": 24,
+      "norm_label": "evaluate_clustering.py"
+    },
+    {
+      "label": "find_broken_prints.py",
+      "file_type": "code",
+      "source_file": "find_broken_prints.py",
+      "source_location": "L1",
+      "id": "find_broken_prints",
+      "community": 25,
+      "norm_label": "find_broken_prints.py"
+    },
+    {
       "label": "find_placeholders.py",
       "file_type": "code",
       "source_file": "find_placeholders.py",
@@ -20,6 +56,51 @@
       "id": "find_placeholders",
       "community": 17,
       "norm_label": "find_placeholders.py"
+    },
+    {
+      "label": "fix_notebook_prints.py",
+      "file_type": "code",
+      "source_file": "fix_notebook_prints.py",
+      "source_location": "L1",
+      "id": "fix_notebook_prints",
+      "community": 26,
+      "norm_label": "fix_notebook_prints.py"
+    },
+    {
+      "label": "fix_notebook_prints2.py",
+      "file_type": "code",
+      "source_file": "fix_notebook_prints2.py",
+      "source_location": "L1",
+      "id": "fix_notebook_prints2",
+      "community": 27,
+      "norm_label": "fix_notebook_prints2.py"
+    },
+    {
+      "label": "fix_notebook_prints3.py",
+      "file_type": "code",
+      "source_file": "fix_notebook_prints3.py",
+      "source_location": "L1",
+      "id": "fix_notebook_prints3",
+      "community": 28,
+      "norm_label": "fix_notebook_prints3.py"
+    },
+    {
+      "label": "inspect_cell.py",
+      "file_type": "code",
+      "source_file": "inspect_cell.py",
+      "source_location": "L1",
+      "id": "inspect_cell",
+      "community": 29,
+      "norm_label": "inspect_cell.py"
+    },
+    {
+      "label": "inspect_cell28.py",
+      "file_type": "code",
+      "source_file": "inspect_cell28.py",
+      "source_location": "L1",
+      "id": "inspect_cell28",
+      "community": 30,
+      "norm_label": "inspect_cell28.py"
     },
     {
       "label": "inspect_data.py",
@@ -40,6 +121,42 @@
       "norm_label": "inspect_nb.py"
     },
     {
+      "label": "inspect_notebook_cell.py",
+      "file_type": "code",
+      "source_file": "inspect_notebook_cell.py",
+      "source_location": "L1",
+      "id": "inspect_notebook_cell",
+      "community": 31,
+      "norm_label": "inspect_notebook_cell.py"
+    },
+    {
+      "label": "inspect_notebook_targets.py",
+      "file_type": "code",
+      "source_file": "inspect_notebook_targets.py",
+      "source_location": "L1",
+      "id": "inspect_notebook_targets",
+      "community": 32,
+      "norm_label": "inspect_notebook_targets.py"
+    },
+    {
+      "label": "inspect_retail_columns.py",
+      "file_type": "code",
+      "source_file": "inspect_retail_columns.py",
+      "source_location": "L1",
+      "id": "inspect_retail_columns",
+      "community": 33,
+      "norm_label": "inspect_retail_columns.py"
+    },
+    {
+      "label": "list_notebook_cells.py",
+      "file_type": "code",
+      "source_file": "list_notebook_cells.py",
+      "source_location": "L1",
+      "id": "list_notebook_cells",
+      "community": 34,
+      "norm_label": "list_notebook_cells.py"
+    },
+    {
       "label": "modify_notebook.py",
       "file_type": "code",
       "source_file": "modify_notebook.py",
@@ -47,6 +164,24 @@
       "id": "modify_notebook",
       "community": 16,
       "norm_label": "modify_notebook.py"
+    },
+    {
+      "label": "patch_broken_validation_print.py",
+      "file_type": "code",
+      "source_file": "patch_broken_validation_print.py",
+      "source_location": "L1",
+      "id": "patch_broken_validation_print",
+      "community": 35,
+      "norm_label": "patch_broken_validation_print.py"
+    },
+    {
+      "label": "patch_dbscan_validation.py",
+      "file_type": "code",
+      "source_file": "patch_dbscan_validation.py",
+      "source_location": "L1",
+      "id": "patch_dbscan_validation",
+      "community": 36,
+      "norm_label": "patch_dbscan_validation.py"
     },
     {
       "label": "patch_nb_full.py",
@@ -65,6 +200,24 @@
       "id": "patch_notebook",
       "community": 21,
       "norm_label": "patch_notebook.py"
+    },
+    {
+      "label": "patch_notebook_remaining.py",
+      "file_type": "code",
+      "source_file": "patch_notebook_remaining.py",
+      "source_location": "L1",
+      "id": "patch_notebook_remaining",
+      "community": 37,
+      "norm_label": "patch_notebook_remaining.py"
+    },
+    {
+      "label": "patch_validation_print.py",
+      "file_type": "code",
+      "source_file": "patch_validation_print.py",
+      "source_location": "L1",
+      "id": "patch_validation_print",
+      "community": 38,
+      "norm_label": "patch_validation_print.py"
     },
     {
       "label": "populate_notebook.py",
@@ -92,6 +245,51 @@
       "id": "prepare_notebook",
       "community": 15,
       "norm_label": "prepare_notebook.py"
+    },
+    {
+      "label": "remove_duplicate_rfm_cells.py",
+      "file_type": "code",
+      "source_file": "remove_duplicate_rfm_cells.py",
+      "source_location": "L1",
+      "id": "remove_duplicate_rfm_cells",
+      "community": 39,
+      "norm_label": "remove_duplicate_rfm_cells.py"
+    },
+    {
+      "label": "repair_validation_cell.py",
+      "file_type": "code",
+      "source_file": "repair_validation_cell.py",
+      "source_location": "L1",
+      "id": "repair_validation_cell",
+      "community": 40,
+      "norm_label": "repair_validation_cell.py"
+    },
+    {
+      "label": "replace_broken_validation_print.py",
+      "file_type": "code",
+      "source_file": "replace_broken_validation_print.py",
+      "source_location": "L1",
+      "id": "replace_broken_validation_print",
+      "community": 41,
+      "norm_label": "replace_broken_validation_print.py"
+    },
+    {
+      "label": "scan_and_patch_prints.py",
+      "file_type": "code",
+      "source_file": "scan_and_patch_prints.py",
+      "source_location": "L1",
+      "id": "scan_and_patch_prints",
+      "community": 42,
+      "norm_label": "scan_and_patch_prints.py"
+    },
+    {
+      "label": "set_validation_cell_full.py",
+      "file_type": "code",
+      "source_file": "set_validation_cell_full.py",
+      "source_location": "L1",
+      "id": "set_validation_cell_full",
+      "community": 43,
+      "norm_label": "set_validation_cell_full.py"
     },
     {
       "label": "AARADHYA_MASTER_v91.md",
@@ -979,7 +1177,7 @@
       "label": "Next Steps",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
-      "source_location": "L48",
+      "source_location": "L44",
       "id": "task_progress_next_steps",
       "community": 11,
       "norm_label": "next steps"
@@ -988,7 +1186,7 @@
       "label": "Notes",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
-      "source_location": "L55",
+      "source_location": "L51",
       "id": "task_progress_notes",
       "community": 11,
       "norm_label": "notes"
@@ -2281,9 +2479,9 @@
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "task_progress",
-      "target": "task_progress_task_progress_week_7_clustering_assignment",
-      "confidence_score": 1.0
+      "target": "task_progress_task_progress_week_7_clustering_assignment"
     },
     {
       "relation": "contains",
@@ -2291,9 +2489,9 @@
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "task_progress_task_progress_week_7_clustering_assignment",
-      "target": "task_progress_next_steps",
-      "confidence_score": 1.0
+      "target": "task_progress_next_steps"
     },
     {
       "relation": "contains",
@@ -2301,9 +2499,9 @@
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L55",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "task_progress_task_progress_week_7_clustering_assignment",
-      "target": "task_progress_notes",
-      "confidence_score": 1.0
+      "target": "task_progress_notes"
     },
     {
       "relation": "contains",
@@ -2311,9 +2509,9 @@
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "task_progress_task_progress_week_7_clustering_assignment",
-      "target": "task_progress_overall_status",
-      "confidence_score": 1.0
+      "target": "task_progress_overall_status"
     },
     {
       "relation": "contains",
@@ -2321,9 +2519,9 @@
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L38",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "task_progress_task_progress_week_7_clustering_assignment",
-      "target": "task_progress_remaining_work",
-      "confidence_score": 1.0
+      "target": "task_progress_remaining_work"
     },
     {
       "relation": "contains",
@@ -2331,9 +2529,9 @@
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "task_progress_task_progress_week_7_clustering_assignment",
-      "target": "task_progress_summary",
-      "confidence_score": 1.0
+      "target": "task_progress_summary"
     },
     {
       "relation": "contains",
@@ -2341,9 +2539,9 @@
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L22",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "task_progress_task_progress_week_7_clustering_assignment",
-      "target": "task_progress_task_plan_overview",
-      "confidence_score": 1.0
+      "target": "task_progress_task_plan_overview"
     },
     {
       "relation": "contains",
@@ -2637,5 +2835,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "8ca1ccb2af4bdda745923e1d72f84f162ac5528d"
+  "built_at_commit": "067104349dbead4281fecafd5c3ba244c7a71913"
 }
