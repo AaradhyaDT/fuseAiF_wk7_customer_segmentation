@@ -1,16 +1,16 @@
 # Graph Report - WK7  (2026-06-12)
 
 ## Corpus Check
-- 35 files · ~65,563 words
+- 34 files · ~60,971 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 166 nodes · 131 edges · 44 communities (43 shown, 1 thin omitted)
+- 199 nodes · 162 edges · 47 communities (46 shown, 1 thin omitted)
 - Extraction: 99% EXTRACTED · 1% INFERRED · 0% AMBIGUOUS · INFERRED: 1 edges (avg confidence: 0.9)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `06710434`
+- Built from commit: `39df1e5e`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -28,18 +28,21 @@
 - [[_COMMUNITY_Community 10|Community 10]]
 - [[_COMMUNITY_Community 11|Community 11]]
 - [[_COMMUNITY_Community 12|Community 12]]
+- [[_COMMUNITY_Community 13|Community 13]]
+- [[_COMMUNITY_Community 14|Community 14]]
+- [[_COMMUNITY_Community 15|Community 15]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `AARADHYA DEV TAMRAKAR — Master Profile v91` - 23 edges
-2. `🛠️ Projects` - 15 edges
-3. `fuseAiF_wk7_customer_segmentation` - 15 edges
+2. `fuseAiF_wk7_customer_segmentation` - 15 edges
+3. `🛠️ Projects` - 15 edges
 4. `Section-by-Section Breakdown` - 12 edges
-5. `🧠 Skills & Stack` - 11 edges
-6. `🎓 Academic Background` - 7 edges
+5. `Section-by-Section Breakdown` - 12 edges
+6. `🧠 Skills & Stack` - 11 edges
 7. `Task Progress - Week 7 Clustering Assignment` - 7 edges
-8. `Week 7 — Clustering Assignment: Task Plan (v4)` - 6 edges
-9. `Section 3 — Feature Engineering` - 6 edges
-10. `🧑 Personal Identity` - 5 edges
+8. `🎓 Academic Background` - 7 edges
+9. `Task Progress - Week 7 Clustering Assignment` - 7 edges
+10. `Week 7 — Clustering Assignment: Task Plan (v4)` - 6 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `fuseAiF_wk7_customer_segmentation` --references--> `UCI Online Retail II Dataset`  [EXTRACTED]
@@ -54,7 +57,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (44 total, 1 thin omitted)
+## Communities (47 total, 1 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.12
@@ -104,8 +107,20 @@ Nodes (5): LEO Club (Lions International), Motorcycles, Music, Perfumery, 🎵 P
 Cohesion: 0.25
 Nodes (7): Next Steps, Notes, Overall Status, Remaining Work, Summary, Task Plan Overview, Task Progress - Week 7 Clustering Assignment
 
+### Community 13 - "Community 13"
+Cohesion: 0.12
+Nodes (17): 3A — RFM Features, 3B — Extended Features, 3C — Category Spend Ratios *(explicitly required by PDF — do not skip)*, 3D — Outlier Handling, 3E — Scaling, Section 0 — Environment Setup, Section 10 — High Ceiling (Optional), Section 1 — Data Loading & First Look (+9 more)
+
+### Community 14 - "Community 14"
+Cohesion: 0.25
+Nodes (7): Next Steps, Notes, Overall Status, Remaining Work, Summary, Task Plan Overview, Task Progress - Week 7 Clustering Assignment
+
+### Community 15 - "Community 15"
+Cohesion: 0.25
+Nodes (7): Overview, Submission Checklist, Time Estimate, v1 → v2 (PDF gap analysis), v2 → v3 (Notebook scaffold analysis), Week 7 — Clustering Assignment: Task Plan (v4), What Changed from v1 → v2 → v3 (Gap Summary)
+
 ## Knowledge Gaps
-- **106 isolated node(s):** `🔄 Cross-Document Consistency Check (AUTO-TRIGGER)`, `Siddhartha Bank (SBL)`, `Planned Subscriptions`, `Major Project Group Accounts`, `Vedic Astrology` (+101 more)
+- **132 isolated node(s):** `Context`, `Dataset`, `Pipeline Overview`, `Repository Structure`, `Key Techniques` (+127 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **1 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
@@ -113,13 +128,13 @@ Nodes (7): Next Steps, Notes, Overall Status, Remaining Work, Summary, Task Plan
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `AARADHYA DEV TAMRAKAR — Master Profile v91` connect `Community 1` to `Community 3`, `Community 4`, `Community 6`, `Community 7`, `Community 8`, `Community 9`, `Community 10`?**
-  _High betweenness centrality (0.210) - this node is a cross-community bridge._
+  _High betweenness centrality (0.146) - this node is a cross-community bridge._
 - **Why does `🛠️ Projects` connect `Community 3` to `Community 1`?**
-  _High betweenness centrality (0.074) - this node is a cross-community bridge._
+  _High betweenness centrality (0.051) - this node is a cross-community bridge._
 - **Why does `🧠 Skills & Stack` connect `Community 4` to `Community 1`?**
-  _High betweenness centrality (0.054) - this node is a cross-community bridge._
-- **What connects `🔄 Cross-Document Consistency Check (AUTO-TRIGGER)`, `Siddhartha Bank (SBL)`, `Planned Subscriptions` to the rest of the system?**
-  _106 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _High betweenness centrality (0.038) - this node is a cross-community bridge._
+- **What connects `Context`, `Dataset`, `Pipeline Overview` to the rest of the system?**
+  _132 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.11764705882352941 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
