@@ -28,7 +28,10 @@ import numpy as np
 from datetime import datetime, timedelta
 from sklearn.preprocessing import StandardScaler
 
-# Assume `df` and `customer_df` are already loaded from the top cell.
+# Load dataset and create a copy for customer-level analysis
+df = pd.read_excel('online_retail_II.xlsx', sheet_name='Year 2010-2011')
+df.rename(columns={'Customer ID': 'CustomerID'}, inplace=True)
+customer_df = df.copy()
 # Compute Recency, Frequency, Monetary per CustomerID.
 # Reference date is one day after the latest InvoiceDate.
 reference_date = df['InvoiceDate'].max() + pd.Timedelta(days=1)
@@ -36,11 +39,11 @@ reference_date = df['InvoiceDate'].max() + pd.Timedelta(days=1)
 # Aggregate RFM
 rfm = customer_df.groupby('CustomerID').agg({
     'InvoiceDate': lambda x: (reference_date - x.max()).days,
-    'InvoiceNo': 'nunique',
+    'Invoice': 'nunique',
     'Quantity': 'sum',
     'Price': 'mean'
 }).reset_index()
-rfm.rename(columns={'InvoiceDate': 'Recency', 'InvoiceNo': 'Frequency', 'Quantity': 'QuantitySum', 'Price': 'AvgPrice'}, inplace=True)
+rfm.rename(columns={'InvoiceDate': 'Recency', 'Invoice': 'Frequency', 'Quantity': 'QuantitySum', 'Price': 'AvgPrice'}, inplace=True)
 # Monetary = total spend = QuantitySum * AvgPrice
 rfm['Monetary'] = rfm['QuantitySum'] * rfm['AvgPrice']
 # Keep only the RFM columns needed for clustering
@@ -50,11 +53,54 @@ customer_features = rfm[['Recency', 'Frequency', 'Monetary']]
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(customer_features)
 # Attach scaled features back to the dataframe for later use
-customer_df[['Recency_scaled', 'Frequency_scaled', 'Monetary_scaled']] = X_scaled
+scaled_df = pd.DataFrame(X_scaled, columns=['Recency_scaled', 'Frequency_scaled', 'Monetary_scaled'])
+rfm = pd.concat([rfm, scaled_df], axis=1)
 """
 
-# Insert after the first cell (index 0)
-nb.cells.insert(1, new_code_cell(preprocess_code))
+preprocess_code = '''
+# ---------------------------------------------------
+# RFM Feature Engineering & Scaling
+# ---------------------------------------------------
+import pandas as pd
+import numpy as np
+from datetime import datetime, timedelta
+from sklearn.preprocessing import StandardScaler
+
+# Load dataset and create a copy for customer-level analysis
+df = pd.read_excel('online_retail_II.xlsx', sheet_name='Year 2010-2011')
+df.rename(columns={'Customer ID': 'CustomerID'}, inplace=True)
+customer_df = df.copy()
+# Compute Recency, Frequency, Monetary per CustomerID.
+# Reference date is one day after the latest InvoiceDate.
+reference_date = df['InvoiceDate'].max() + pd.Timedelta(days=1)
+
+# Aggregate RFM
+rfm = customer_df.groupby('CustomerID').agg({
+    'InvoiceDate': lambda x: (reference_date - x.max()).days,
+    'Invoice': 'nunique',
+    'Quantity': 'sum',
+    'Price': 'mean'
+}).reset_index()
+rfm.rename(columns={'InvoiceDate': 'Recency', 'Invoice': 'Frequency', 'Quantity': 'QuantitySum', 'Price': 'AvgPrice'}, inplace=True)
+# Monetary = total spend = QuantitySum * AvgPrice
+rfm['Monetary'] = rfm['QuantitySum'] * rfm['AvgPrice']
+# Keep only the RFM columns needed for clustering
+customer_features = rfm[['Recency', 'Frequency', 'Monetary']]
+
+# Standardize features
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(customer_features)
+# Attach scaled features back to the RFM dataframe for later use
+scaled_df = pd.DataFrame(X_scaled, columns=['Recency_scaled', 'Frequency_scaled', 'Monetary_scaled'])
+rfm = pd.concat([rfm, scaled_df], axis=1)
+''' 
+# Replace existing RFM cell if present, else insert after first cell
+for i, cell in enumerate(nb.cells):
+    if cell.get('cell_type') == 'code' and 'RFM Feature Engineering' in ''.join(cell.get('source','')):
+        nb.cells[i]['source'] = preprocess_code
+        break
+else:
+    nb.cells.insert(1, new_code_cell(preprocess_code))
 
 # Save notebook
 nbformat.write(nb, NOTEBOOK_PATH)

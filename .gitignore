@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore generated large analysis files that should not be committed
+plots/pipeline_results.json
+graphify-out/converted/online_retail_II_265288a9.md
