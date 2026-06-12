@@ -1,0 +1,6 @@
+[graphify] chunk 1/1 failed: Request timed out.
+[graphify] WARNING: 1/1 semantic chunk(s) failed ΓÇö see errors above. Partial results returned.
+[graphify extract] error: all semantic chunks failed for backend 'gemini' (6 uncached files) - see per-chunk errors above. If you see 'requires the X package', run `pip install X` and retry.
+[graphify extract] scanning C:\Users\Aaradhya\Downloads\_Organized\Fuse AI Fellowship\FUSE AIF 2026 M2\WK7
+[graphify extract] found 0 code, 5 docs, 1 papers, 0 images
+[graphify extract] semantic extraction on 6 files via gemini...

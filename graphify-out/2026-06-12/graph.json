@@ -1,0 +1,172 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "Aaradhya Dev Tamrakar",
+      "file_type": "document",
+      "source_file": "AARADHYA_MASTER_v91.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-06-12",
+      "author": null,
+      "contributor": null,
+      "id": "aaradhya_master_v91_aaradhya_dev_tamrakar",
+      "community": 0,
+      "norm_label": "aaradhya dev tamrakar"
+    },
+    {
+      "label": "PrakopNet",
+      "file_type": "concept",
+      "source_file": "AARADHYA_MASTER_v91.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "aaradhya_master_v91_prakopnet",
+      "community": 0,
+      "norm_label": "prakopnet"
+    },
+    {
+      "label": "Nexus AI Workflow Hub",
+      "file_type": "code",
+      "source_file": "AARADHYA_MASTER_v91.md",
+      "source_location": null,
+      "source_url": "github.com/AaradhyaDT/nexus",
+      "captured_at": null,
+      "author": "Aaradhya Dev Tamrakar",
+      "contributor": null,
+      "id": "aaradhya_master_v91_nexus",
+      "community": 0,
+      "norm_label": "nexus ai workflow hub"
+    },
+    {
+      "label": "Fusemachines AI Fellowship Week 7: Customer Segmentation",
+      "file_type": "code",
+      "source_file": "README.md",
+      "source_location": null,
+      "source_url": "https://github.com/AaradhyaDT/fuseAiF_wk7_customer_segmentation",
+      "captured_at": null,
+      "author": "Aaradhya Dev Tamrakar",
+      "contributor": null,
+      "id": "readme_fuseaif_wk7_customer_segmentation",
+      "community": 1,
+      "norm_label": "fusemachines ai fellowship week 7: customer segmentation"
+    },
+    {
+      "label": "UCI Online Retail II Dataset",
+      "file_type": "document",
+      "source_file": "Week7_Clustering_Assignment.pdf",
+      "source_location": null,
+      "source_url": "https://archive.ics.uci.edu/dataset/502/online+retail+ii",
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "week7_clustering_assignment_uci_online_retail_ii",
+      "community": 1,
+      "norm_label": "uci online retail ii dataset"
+    },
+    {
+      "label": "Online Retail II - Year 2009-2010",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/online_retail_II_265288a9.md",
+      "source_location": "Sheet: Year 2009-2010",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "online_retail_ii_year_2009_2010",
+      "community": 1,
+      "norm_label": "online retail ii - year 2009-2010"
+    },
+    {
+      "label": "Fusemachines AI Fellowship",
+      "file_type": "concept",
+      "source_file": "AARADHYA_MASTER_v91.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "aaradhya_master_v91_fusemachines",
+      "community": 0,
+      "norm_label": "fusemachines ai fellowship"
+    }
+  ],
+  "links": [
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AARADHYA_MASTER_v91.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "aaradhya_master_v91_aaradhya_dev_tamrakar",
+      "target": "aaradhya_master_v91_fusemachines"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AARADHYA_MASTER_v91.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "aaradhya_master_v91_aaradhya_dev_tamrakar",
+      "target": "aaradhya_master_v91_nexus"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AARADHYA_MASTER_v91.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "aaradhya_master_v91_aaradhya_dev_tamrakar",
+      "target": "aaradhya_master_v91_prakopnet"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AARADHYA_MASTER_v91.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "aaradhya_master_v91_aaradhya_dev_tamrakar",
+      "target": "readme_fuseaif_wk7_customer_segmentation"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "readme_fuseaif_wk7_customer_segmentation",
+      "target": "aaradhya_master_v91_fusemachines"
+    },
+    {
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "readme_fuseaif_wk7_customer_segmentation",
+      "target": "online_retail_ii_year_2009_2010"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "readme_fuseaif_wk7_customer_segmentation",
+      "target": "week7_clustering_assignment_uci_online_retail_ii"
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "0c622c40788deb0e97c333f19bac995eb97a46a8"
+}

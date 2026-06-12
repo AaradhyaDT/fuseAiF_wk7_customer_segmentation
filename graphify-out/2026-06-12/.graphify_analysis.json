@@ -1,0 +1,106 @@
+{
+  "communities": {
+    "0": [
+      "aaradhya_master_v91_aaradhya_dev_tamrakar",
+      "aaradhya_master_v91_fusemachines",
+      "aaradhya_master_v91_nexus",
+      "aaradhya_master_v91_prakopnet"
+    ],
+    "1": [
+      "online_retail_ii_year_2009_2010",
+      "readme_fuseaif_wk7_customer_segmentation",
+      "week7_clustering_assignment_uci_online_retail_ii"
+    ]
+  },
+  "cohesion": {
+    "0": 0.5,
+    "1": 0.6666666666666666
+  },
+  "gods": [
+    {
+      "id": "aaradhya_master_v91_aaradhya_dev_tamrakar",
+      "label": "Aaradhya Dev Tamrakar",
+      "degree": 4
+    },
+    {
+      "id": "readme_fuseaif_wk7_customer_segmentation",
+      "label": "Fusemachines AI Fellowship Week 7: Customer Segmentation",
+      "degree": 4
+    },
+    {
+      "id": "aaradhya_master_v91_fusemachines",
+      "label": "Fusemachines AI Fellowship",
+      "degree": 2
+    },
+    {
+      "id": "aaradhya_master_v91_prakopnet",
+      "label": "PrakopNet",
+      "degree": 1
+    },
+    {
+      "id": "aaradhya_master_v91_nexus",
+      "label": "Nexus AI Workflow Hub",
+      "degree": 1
+    },
+    {
+      "id": "week7_clustering_assignment_uci_online_retail_ii",
+      "label": "UCI Online Retail II Dataset",
+      "degree": 1
+    },
+    {
+      "id": "online_retail_ii_year_2009_2010",
+      "label": "Online Retail II - Year 2009-2010",
+      "degree": 1
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Fusemachines AI Fellowship Week 7: Customer Segmentation",
+      "target": "UCI Online Retail II Dataset",
+      "source_files": [
+        "README.md",
+        "Week7_Clustering_Assignment.pdf"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "crosses file types (doc \u2194 paper); connects across different repos/directories"
+    },
+    {
+      "source": "Aaradhya Dev Tamrakar",
+      "target": "Fusemachines AI Fellowship Week 7: Customer Segmentation",
+      "source_files": [
+        "AARADHYA_MASTER_v91.md",
+        "README.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "implements",
+      "why": "connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "Fusemachines AI Fellowship Week 7: Customer Segmentation",
+      "target": "Fusemachines AI Fellowship",
+      "source_files": [
+        "README.md",
+        "AARADHYA_MASTER_v91.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "conceptually_related_to",
+      "why": "connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "Fusemachines AI Fellowship Week 7: Customer Segmentation",
+      "target": "Online Retail II - Year 2009-2010",
+      "source_files": [
+        "README.md",
+        "graphify-out/converted/online_retail_II_265288a9.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "references",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories"
+    }
+  ],
+  "tokens": {
+    "input": 35994,
+    "output": 1751
+  }
+}
