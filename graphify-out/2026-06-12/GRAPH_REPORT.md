@@ -1,11 +1,11 @@
 # Graph Report - WK7  (2026-06-12)
 
 ## Corpus Check
-- 13 files · ~62,401 words
+- 7 files · ~59,499 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 144 nodes · 131 edges · 22 communities (21 shown, 1 thin omitted)
+- 131 nodes · 124 edges · 17 communities (16 shown, 1 thin omitted)
 - Extraction: 99% EXTRACTED · 1% INFERRED · 0% AMBIGUOUS · INFERRED: 1 edges (avg confidence: 0.9)
 - Token cost: 0 input · 0 output
 
@@ -36,10 +36,10 @@
 4. `Section-by-Section Breakdown` - 12 edges
 5. `🧠 Skills & Stack` - 11 edges
 6. `🎓 Academic Background` - 7 edges
-7. `Task Progress - Week 7 Clustering Assignment` - 7 edges
-8. `Week 7 — Clustering Assignment: Task Plan (v4)` - 6 edges
-9. `Section 3 — Feature Engineering` - 6 edges
-10. `🧑 Personal Identity` - 5 edges
+7. `Week 7 — Clustering Assignment: Task Plan (v4)` - 6 edges
+8. `Section 3 — Feature Engineering` - 6 edges
+9. `🧑 Personal Identity` - 5 edges
+10. `🌐 Actual Situation & Path (as of June 2026)` - 5 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `fuseAiF_wk7_customer_segmentation` --references--> `UCI Online Retail II Dataset`  [EXTRACTED]
@@ -54,15 +54,15 @@
 ## Import Cycles
 - None detected.
 
-## Communities (22 total, 1 thin omitted)
+## Communities (17 total, 1 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.12
 Nodes (17): Aaradhya Dev Tamrakar, Fusemachines AI Fellowship, Nexus AI Workflow Hub, PrakopNet, Online Retail II - Year 2009-2010, Cluster Segments, Context, Dataset (+9 more)
 
 ### Community 1 - "Community 1"
-Cohesion: 0.07
-Nodes (26): AARADHYA DEV TAMRAKAR — Master Profile v91, 🔑 Accounts & Identities, 🔬 Algoverse AI Research Application, Animation System (as of May 30, 2026), 🏦 Banking & Subscriptions, 🔄 Cross-Document Consistency Check (AUTO-TRIGGER), 👨‍👩‍👦 Family Background, 🛠️ Fellowships & Recognitions Updates (CV Section View) (+18 more)
+Cohesion: 0.08
+Nodes (23): AARADHYA DEV TAMRAKAR — Master Profile v91, 🔑 Accounts & Identities, 🔬 Algoverse AI Research Application, 🏦 Banking & Subscriptions, 🔄 Cross-Document Consistency Check (AUTO-TRIGGER), 👨‍👩‍👦 Family Background, 🛠️ Fellowships & Recognitions Updates (CV Section View), Generational Context (+15 more)
 
 ### Community 2 - "Community 2"
 Cohesion: 0.12
@@ -101,28 +101,28 @@ Cohesion: 0.40
 Nodes (5): LEO Club (Lions International), Motorcycles, Music, Perfumery, 🎵 Personal Interests & Life
 
 ### Community 11 - "Community 11"
-Cohesion: 0.25
-Nodes (7): Next Steps, Notes, Overall Status, Remaining Work, Summary, Task Plan Overview, Task Progress - Week 7 Clustering Assignment
+Cohesion: 0.67
+Nodes (3): Animation System (as of May 30, 2026), Pending Fixes, 🌐 Portfolio Website — aaradhyadtmr.github.io
 
 ## Knowledge Gaps
-- **106 isolated node(s):** `🔄 Cross-Document Consistency Check (AUTO-TRIGGER)`, `Siddhartha Bank (SBL)`, `Planned Subscriptions`, `Major Project Group Accounts`, `Vedic Astrology` (+101 more)
+- **100 isolated node(s):** `🔄 Cross-Document Consistency Check (AUTO-TRIGGER)`, `Siddhartha Bank (SBL)`, `Planned Subscriptions`, `Major Project Group Accounts`, `Vedic Astrology` (+95 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **1 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `AARADHYA DEV TAMRAKAR — Master Profile v91` connect `Community 1` to `Community 3`, `Community 4`, `Community 6`, `Community 7`, `Community 8`, `Community 9`, `Community 10`?**
-  _High betweenness centrality (0.280) - this node is a cross-community bridge._
+- **Why does `AARADHYA DEV TAMRAKAR — Master Profile v91` connect `Community 1` to `Community 3`, `Community 4`, `Community 6`, `Community 7`, `Community 8`, `Community 9`, `Community 10`, `Community 11`?**
+  _High betweenness centrality (0.340) - this node is a cross-community bridge._
 - **Why does `🛠️ Projects` connect `Community 3` to `Community 1`?**
-  _High betweenness centrality (0.099) - this node is a cross-community bridge._
+  _High betweenness centrality (0.119) - this node is a cross-community bridge._
 - **Why does `🧠 Skills & Stack` connect `Community 4` to `Community 1`?**
-  _High betweenness centrality (0.072) - this node is a cross-community bridge._
+  _High betweenness centrality (0.088) - this node is a cross-community bridge._
 - **What connects `🔄 Cross-Document Consistency Check (AUTO-TRIGGER)`, `Siddhartha Bank (SBL)`, `Planned Subscriptions` to the rest of the system?**
-  _106 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _100 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.11764705882352941 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
-  _Cohesion score 0.07407407407407407 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.08333333333333333 - nodes in this community are weakly interconnected._
 - **Should `Community 2` be split into smaller, more focused modules?**
   _Cohesion score 0.11764705882352941 - nodes in this community are weakly interconnected._

@@ -1,0 +1,13 @@
+shape (541910, 8)
+columns ['Invoice', 'StockCode', 'Description', 'Quantity', 'InvoiceDate', 'Price', 'Customer ID', 'Country']
+  Invoice StockCode                          Description  Quantity         InvoiceDate  Price  Customer ID         Country
+0  536365    85123A   WHITE HANGING HEART T-LIGHT HOLDER         6 2010-12-01 08:26:00   2.55      17850.0  United Kingdom
+1  536365     71053                  WHITE METAL LANTERN         6 2010-12-01 08:26:00   3.39      17850.0  United Kingdom
+2  536365    84406B       CREAM CUPID HEARTS COAT HANGER         8 2010-12-01 08:26:00   2.75      17850.0  United Kingdom
+3  536365    84029G  KNITTED UNION FLAG HOT WATER BOTTLE         6 2010-12-01 08:26:00   3.39      17850.0  United Kingdom
+4  536365    84029E       RED WOOLLY HOTTIE WHITE HEART.         6 2010-12-01 08:26:00   3.39      17850.0  United Kingdom
+dtypes {'Invoice': dtype('O'), 'StockCode': dtype('O'), 'Description': dtype('O'), 'Quantity': dtype('int64'), 'InvoiceDate': dtype('<M8[us]'), 'Price': dtype('float64'), 'Customer ID': dtype('float64'), 'Country': <StringDtype(storage='python', na_value=nan)>}
+missing {'Invoice': 0, 'StockCode': 0, 'Description': 1454, 'Quantity': 0, 'InvoiceDate': 0, 'Price': 0, 'Customer ID': 135080, 'Country': 0}
+Invoice sample ['536365', '536365', '536365', '536365', '536365', '536365', '536365', '536366', '536366', '536368']
+Unique Customer IDs 4372 non-null 406830
+InvoiceDate dtype datetime64[us]

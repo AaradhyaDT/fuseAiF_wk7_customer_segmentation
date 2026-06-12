@@ -13,6 +13,60 @@
       "norm_label": "enhance_notebook.py"
     },
     {
+      "label": "find_placeholders.py",
+      "file_type": "code",
+      "source_file": "find_placeholders.py",
+      "source_location": "L1",
+      "id": "find_placeholders",
+      "community": 17,
+      "norm_label": "find_placeholders.py"
+    },
+    {
+      "label": "inspect_data.py",
+      "file_type": "code",
+      "source_file": "inspect_data.py",
+      "source_location": "L1",
+      "id": "inspect_data",
+      "community": 18,
+      "norm_label": "inspect_data.py"
+    },
+    {
+      "label": "inspect_nb.py",
+      "file_type": "code",
+      "source_file": "inspect_nb.py",
+      "source_location": "L1",
+      "id": "inspect_nb",
+      "community": 19,
+      "norm_label": "inspect_nb.py"
+    },
+    {
+      "label": "modify_notebook.py",
+      "file_type": "code",
+      "source_file": "modify_notebook.py",
+      "source_location": "L1",
+      "id": "modify_notebook",
+      "community": 16,
+      "norm_label": "modify_notebook.py"
+    },
+    {
+      "label": "patch_nb_full.py",
+      "file_type": "code",
+      "source_file": "patch_nb_full.py",
+      "source_location": "L1",
+      "id": "patch_nb_full",
+      "community": 20,
+      "norm_label": "patch_nb_full.py"
+    },
+    {
+      "label": "patch_notebook.py",
+      "file_type": "code",
+      "source_file": "patch_notebook.py",
+      "source_location": "L1",
+      "id": "patch_notebook",
+      "community": 21,
+      "norm_label": "patch_notebook.py"
+    },
+    {
       "label": "populate_notebook.py",
       "file_type": "code",
       "source_file": "populate_notebook.py",
@@ -459,7 +513,7 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L801",
       "id": "aaradhya_master_v91_portfolio_website_aaradhyadtmr_github_io",
-      "community": 11,
+      "community": 1,
       "norm_label": "\ud83c\udf10 portfolio website \u2014 aaradhyadtmr.github.io"
     },
     {
@@ -468,7 +522,7 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L812",
       "id": "aaradhya_master_v91_animation_system_as_of_may_30_2026",
-      "community": 11,
+      "community": 1,
       "norm_label": "animation system (as of may 30, 2026)"
     },
     {
@@ -477,7 +531,7 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L847",
       "id": "aaradhya_master_v91_pending_fixes",
-      "community": 11,
+      "community": 1,
       "norm_label": "pending fixes"
     },
     {
@@ -868,6 +922,78 @@
       "norm_label": "fellowship context"
     },
     {
+      "label": "TASK_PROGRESS.md",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L1",
+      "id": "task_progress",
+      "community": 11,
+      "norm_label": "task_progress.md"
+    },
+    {
+      "label": "Task Progress - Week 7 Clustering Assignment",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L1",
+      "id": "task_progress_task_progress_week_7_clustering_assignment",
+      "community": 11,
+      "norm_label": "task progress - week 7 clustering assignment"
+    },
+    {
+      "label": "Summary",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L5",
+      "id": "task_progress_summary",
+      "community": 11,
+      "norm_label": "summary"
+    },
+    {
+      "label": "Overall Status",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L13",
+      "id": "task_progress_overall_status",
+      "community": 11,
+      "norm_label": "overall status"
+    },
+    {
+      "label": "Task Plan Overview",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L22",
+      "id": "task_progress_task_plan_overview",
+      "community": 11,
+      "norm_label": "task plan overview"
+    },
+    {
+      "label": "Remaining Work",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L38",
+      "id": "task_progress_remaining_work",
+      "community": 11,
+      "norm_label": "remaining work"
+    },
+    {
+      "label": "Next Steps",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L48",
+      "id": "task_progress_next_steps",
+      "community": 11,
+      "norm_label": "next steps"
+    },
+    {
+      "label": "Notes",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L55",
+      "id": "task_progress_notes",
+      "community": 11,
+      "norm_label": "notes"
+    },
+    {
       "label": "Week7_Clustering_TaskPlan_v4.md",
       "file_type": "document",
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
@@ -1097,27 +1223,27 @@
       "file_type": "document",
       "source_file": "graphify-out/converted/online_retail_II_265288a9.md",
       "source_location": "L1",
-      "id": "converted_online_retail_ii_265288a9",
       "community": 12,
-      "norm_label": "online_retail_ii_265288a9.md"
+      "norm_label": "online_retail_ii_265288a9.md",
+      "id": "converted_online_retail_ii_265288a9"
     },
     {
       "label": "Sheet: Year 2009-2010",
       "file_type": "document",
       "source_file": "graphify-out/converted/online_retail_II_265288a9.md",
       "source_location": "L3",
-      "id": "converted_online_retail_ii_265288a9_sheet_year_2009_2010",
       "community": 12,
-      "norm_label": "sheet: year 2009-2010"
+      "norm_label": "sheet: year 2009-2010",
+      "id": "converted_online_retail_ii_265288a9_sheet_year_2009_2010"
     },
     {
       "label": "Sheet: Year 2010-2011",
       "file_type": "document",
       "source_file": "graphify-out/converted/online_retail_II_265288a9.md",
       "source_location": "L525467",
-      "id": "converted_online_retail_ii_265288a9_sheet_year_2010_2011",
       "community": 12,
-      "norm_label": "sheet: year 2010-2011"
+      "norm_label": "sheet: year 2010-2011",
+      "id": "converted_online_retail_ii_265288a9_sheet_year_2010_2011"
     },
     {
       "label": "Aaradhya Dev Tamrakar",
@@ -1205,9 +1331,9 @@
       "source_file": "populate_notebook.py",
       "source_location": "L35",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "populate_notebook",
-      "target": "populate_notebook_embed_plots_md",
-      "confidence_score": 1.0
+      "target": "populate_notebook_embed_plots_md"
     },
     {
       "relation": "contains",
@@ -1215,9 +1341,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91",
-      "target": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91"
     },
     {
       "relation": "contains",
@@ -1225,9 +1351,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L216",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_academic_background",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_academic_background"
     },
     {
       "relation": "contains",
@@ -1235,9 +1361,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L84",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_accounts_identities",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_accounts_identities"
     },
     {
       "relation": "contains",
@@ -1245,9 +1371,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L301",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_actual_situation_path_as_of_june_2026",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_actual_situation_path_as_of_june_2026"
     },
     {
       "relation": "contains",
@@ -1255,9 +1381,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L864",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_algoverse_ai_research_application",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_algoverse_ai_research_application"
     },
     {
       "relation": "contains",
@@ -1265,9 +1391,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L64",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_banking_subscriptions",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_banking_subscriptions"
     },
     {
       "relation": "contains",
@@ -1275,9 +1401,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L875",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_datacamp_certification_plan",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_datacamp_certification_plan"
     },
     {
       "relation": "contains",
@@ -1285,9 +1411,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L170",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_family_background",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_family_background"
     },
     {
       "relation": "contains",
@@ -1295,9 +1421,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L915",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_fellowships_recognitions_updates_cv_section_view",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_fellowships_recognitions_updates_cv_section_view"
     },
     {
       "relation": "contains",
@@ -1305,9 +1431,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L907",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_ni_certification_career_plan",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_ni_certification_career_plan"
     },
     {
       "relation": "contains",
@@ -1315,9 +1441,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L110",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_personal_identity",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_personal_identity"
     },
     {
       "relation": "contains",
@@ -1325,9 +1451,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L996",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_personal_interests_life",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_personal_interests_life"
     },
     {
       "relation": "contains",
@@ -1335,9 +1461,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L801",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_portfolio_website_aaradhyadtmr_github_io",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_portfolio_website_aaradhyadtmr_github_io"
     },
     {
       "relation": "contains",
@@ -1345,9 +1471,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L285",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_professional_organizational_roles",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_professional_organizational_roles"
     },
     {
       "relation": "contains",
@@ -1355,9 +1481,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L1035",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_profile_self_assessment",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_profile_self_assessment"
     },
     {
       "relation": "contains",
@@ -1365,9 +1491,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L778",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_project_ranking_v5_may_2026",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_project_ranking_v5_may_2026"
     },
     {
       "relation": "contains",
@@ -1375,9 +1501,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L398",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_projects",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_projects"
     },
     {
       "relation": "contains",
@@ -1385,9 +1511,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L1065",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_semantic_llm_mode_activation_graphify",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_semantic_llm_mode_activation_graphify"
     },
     {
       "relation": "contains",
@@ -1395,9 +1521,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_session_loading_instructions",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_session_loading_instructions"
     },
     {
       "relation": "contains",
@@ -1405,9 +1531,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L928",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_skills_stack",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_skills_stack"
     },
     {
       "relation": "contains",
@@ -1415,9 +1541,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L983",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_technical_activities_certifications",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_technical_activities_certifications"
     },
     {
       "relation": "contains",
@@ -1425,9 +1551,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L1022",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_thinking_style_claude_preferences",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_thinking_style_claude_preferences"
     },
     {
       "relation": "contains",
@@ -1435,9 +1561,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L1048",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_aaradhya_dev_tamrakar_master_profile_v91",
-      "target": "aaradhya_master_v91_trajectory",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_trajectory"
     },
     {
       "relation": "contains",
@@ -1445,9 +1571,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_session_loading_instructions",
-      "target": "aaradhya_master_v91_cross_document_consistency_check_auto_trigger",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_cross_document_consistency_check_auto_trigger"
     },
     {
       "relation": "contains",
@@ -1455,9 +1581,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L76",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_banking_subscriptions",
-      "target": "aaradhya_master_v91_planned_subscriptions",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_planned_subscriptions"
     },
     {
       "relation": "contains",
@@ -1465,9 +1591,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L66",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_banking_subscriptions",
-      "target": "aaradhya_master_v91_siddhartha_bank_sbl",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_siddhartha_bank_sbl"
     },
     {
       "relation": "contains",
@@ -1475,9 +1601,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L97",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_accounts_identities",
-      "target": "aaradhya_master_v91_major_project_group_accounts",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_major_project_group_accounts"
     },
     {
       "relation": "contains",
@@ -1485,9 +1611,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L160",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_personal_identity",
-      "target": "aaradhya_master_v91_chart_highlights",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_chart_highlights"
     },
     {
       "relation": "contains",
@@ -1495,9 +1621,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L149",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_personal_identity",
-      "target": "aaradhya_master_v91_house_placements",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_house_placements"
     },
     {
       "relation": "contains",
@@ -1505,9 +1631,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L134",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_personal_identity",
-      "target": "aaradhya_master_v91_planetary_positions",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_planetary_positions"
     },
     {
       "relation": "contains",
@@ -1515,9 +1641,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L125",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_personal_identity",
-      "target": "aaradhya_master_v91_vedic_astrology",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_vedic_astrology"
     },
     {
       "relation": "contains",
@@ -1525,9 +1651,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L182",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_family_background",
-      "target": "aaradhya_master_v91_generational_context",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_generational_context"
     },
     {
       "relation": "contains",
@@ -1535,9 +1661,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L207",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_family_background",
-      "target": "aaradhya_master_v91_health",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_health"
     },
     {
       "relation": "contains",
@@ -1545,9 +1671,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L272",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_academic_background",
-      "target": "aaradhya_master_v91_bei_curriculum_coverage_full_for_project_framing",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_bei_curriculum_coverage_full_for_project_framing"
     },
     {
       "relation": "contains",
@@ -1555,9 +1681,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L225",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_academic_background",
-      "target": "aaradhya_master_v91_current_subjects_iv_i_7th_semester",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_current_subjects_iv_i_7th_semester"
     },
     {
       "relation": "contains",
@@ -1565,9 +1691,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L237",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_academic_background",
-      "target": "aaradhya_master_v91_iv_i_exam_schedule_2083_test_1",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_iv_i_exam_schedule_2083_test_1"
     },
     {
       "relation": "contains",
@@ -1575,9 +1701,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L231",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_academic_background",
-      "target": "aaradhya_master_v91_iv_ii_subjects_8th_semester_incoming_sep_2026",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_iv_ii_subjects_8th_semester_incoming_sep_2026"
     },
     {
       "relation": "contains",
@@ -1585,9 +1711,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L260",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_academic_background",
-      "target": "aaradhya_master_v91_study_hub_method_from_ct_655_iii_ii_finals",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_study_hub_method_from_ct_655_iii_ii_finals"
     },
     {
       "relation": "contains",
@@ -1595,9 +1721,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L251",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_academic_background",
-      "target": "aaradhya_master_v91_study_resource_assets_assembled_june_2026",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_study_resource_assets_assembled_june_2026"
     },
     {
       "relation": "contains",
@@ -1605,9 +1731,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L311",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_actual_situation_path_as_of_june_2026",
-      "target": "aaradhya_master_v91_the_actual_path",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_the_actual_path"
     },
     {
       "relation": "contains",
@@ -1615,9 +1741,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L382",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_actual_situation_path_as_of_june_2026",
-      "target": "aaradhya_master_v91_the_honest_constraints",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_the_honest_constraints"
     },
     {
       "relation": "contains",
@@ -1625,9 +1751,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L388",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_actual_situation_path_as_of_june_2026",
-      "target": "aaradhya_master_v91_what_would_constitute_success_by_march_2027",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_what_would_constitute_success_by_march_2027"
     },
     {
       "relation": "contains",
@@ -1635,9 +1761,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L305",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_actual_situation_path_as_of_june_2026",
-      "target": "aaradhya_master_v91_where_things_stand",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_where_things_stand"
     },
     {
       "relation": "contains",
@@ -1645,9 +1771,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L657",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_projects",
-      "target": "aaradhya_master_v91_10_fusemachines_ai_fellowship_prep_toolkit_completed_cite_9",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_10_fusemachines_ai_fellowship_prep_toolkit_completed_cite_9"
     },
     {
       "relation": "contains",
@@ -1655,9 +1781,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L661",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_projects",
-      "target": "aaradhya_master_v91_11_fusemachines_week_6_probabilistic_models_assignment_completed",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_11_fusemachines_week_6_probabilistic_models_assignment_completed"
     },
     {
       "relation": "contains",
@@ -1665,9 +1791,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L681",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_projects",
-      "target": "aaradhya_master_v91_12_antenna_lab_data_analysis_cite_9",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_12_antenna_lab_data_analysis_cite_9"
     },
     {
       "relation": "contains",
@@ -1675,9 +1801,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L685",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_projects",
-      "target": "aaradhya_master_v91_13_nexus_personal_ai_operating_system_active_started_june_10_2026",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_13_nexus_personal_ai_operating_system_active_started_june_10_2026"
     },
     {
       "relation": "contains",
@@ -1685,9 +1811,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L670",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_projects",
-      "target": "aaradhya_master_v91_14_fusemachines_week_7_clustering_assignment_in_progress_due_june_21_2026",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_14_fusemachines_week_7_clustering_assignment_in_progress_due_june_21_2026"
     },
     {
       "relation": "contains",
@@ -1695,9 +1821,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L400",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_projects",
-      "target": "aaradhya_master_v91_1_gesture_controlled_self_balancing_robot_gcsbr_minor_project_completed",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_1_gesture_controlled_self_balancing_robot_gcsbr_minor_project_completed"
     },
     {
       "relation": "contains",
@@ -1705,9 +1831,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L412",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_projects",
-      "target": "aaradhya_master_v91_2_text_to_sql_agentic_pipeline_fusemachines_week_3_completed",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_2_text_to_sql_agentic_pipeline_fusemachines_week_3_completed"
     },
     {
       "relation": "contains",
@@ -1715,9 +1841,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L424",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_projects",
-      "target": "aaradhya_master_v91_3_telco_customer_churn_clv_machine_learning_pipeline_fusemachines_week_4_completed",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_3_telco_customer_churn_clv_machine_learning_pipeline_fusemachines_week_4_completed"
     },
     {
       "relation": "contains",
@@ -1725,9 +1851,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L437",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_projects",
-      "target": "aaradhya_master_v91_4_telco_churn_tree_based_ensemble_pipeline_fusemachines_week_5_completed",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_4_telco_churn_tree_based_ensemble_pipeline_fusemachines_week_5_completed"
     },
     {
       "relation": "contains",
@@ -1735,9 +1861,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L454",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_projects",
-      "target": "aaradhya_master_v91_5_alpha_android_super_app_active",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_5_alpha_android_super_app_active"
     },
     {
       "relation": "contains",
@@ -1745,9 +1871,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L463",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_projects",
-      "target": "aaradhya_master_v91_6_edge_ai_stability_detection_system_completed",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_6_edge_ai_stability_detection_system_completed"
     },
     {
       "relation": "contains",
@@ -1755,9 +1881,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L473",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_projects",
-      "target": "aaradhya_master_v91_7_sysoptimizer_windows_optimization_tool_v5_active",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_7_sysoptimizer_windows_optimization_tool_v5_active"
     },
     {
       "relation": "contains",
@@ -1765,9 +1891,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L482",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_projects",
-      "target": "aaradhya_master_v91_8_major_project_prakopnet_idea_d_confirmed_primary_june_8_2026",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_8_major_project_prakopnet_idea_d_confirmed_primary_june_8_2026"
     },
     {
       "relation": "contains",
@@ -1775,9 +1901,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L649",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_projects",
-      "target": "aaradhya_master_v91_9_custom_processor_fsm_design_completed_coursework",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_9_custom_processor_fsm_design_completed_coursework"
     },
     {
       "relation": "contains",
@@ -1785,9 +1911,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L812",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_portfolio_website_aaradhyadtmr_github_io",
-      "target": "aaradhya_master_v91_animation_system_as_of_may_30_2026",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_animation_system_as_of_may_30_2026"
     },
     {
       "relation": "contains",
@@ -1795,9 +1921,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L847",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_portfolio_website_aaradhyadtmr_github_io",
-      "target": "aaradhya_master_v91_pending_fixes",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_pending_fixes"
     },
     {
       "relation": "contains",
@@ -1805,9 +1931,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L879",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_datacamp_certification_plan",
-      "target": "aaradhya_master_v91_phase_1_completed_applied_ai",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_phase_1_completed_applied_ai"
     },
     {
       "relation": "contains",
@@ -1815,9 +1941,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L884",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_datacamp_certification_plan",
-      "target": "aaradhya_master_v91_phase_2_now_june_2026",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_phase_2_now_june_2026"
     },
     {
       "relation": "contains",
@@ -1825,9 +1951,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L891",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_datacamp_certification_plan",
-      "target": "aaradhya_master_v91_phase_3_june_sept_2026_post_fellowship",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_phase_3_june_sept_2026_post_fellowship"
     },
     {
       "relation": "contains",
@@ -1835,9 +1961,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L898",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_datacamp_certification_plan",
-      "target": "aaradhya_master_v91_phase_4_pre_graduation_oct_2026_jan_2027",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_phase_4_pre_graduation_oct_2026_jan_2027"
     },
     {
       "relation": "contains",
@@ -1845,9 +1971,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L917",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_fellowships_recognitions_updates_cv_section_view",
-      "target": "aaradhya_master_v91_nssr_datacamp_fellow_cohort_2_active_2026_present",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_nssr_datacamp_fellow_cohort_2_active_2026_present"
     },
     {
       "relation": "contains",
@@ -1855,9 +1981,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L950",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_skills_stack",
-      "target": "aaradhya_master_v91_ai_local_llm_prompt_engineering",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_ai_local_llm_prompt_engineering"
     },
     {
       "relation": "contains",
@@ -1865,9 +1991,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L938",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_skills_stack",
-      "target": "aaradhya_master_v91_android_development",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_android_development"
     },
     {
       "relation": "contains",
@@ -1875,9 +2001,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L974",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_skills_stack",
-      "target": "aaradhya_master_v91_c_drive_storage_notes_june_2026",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_c_drive_storage_notes_june_2026"
     },
     {
       "relation": "contains",
@@ -1885,9 +2011,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L942",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_skills_stack",
-      "target": "aaradhya_master_v91_deployment",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_deployment"
     },
     {
       "relation": "contains",
@@ -1895,9 +2021,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L946",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_skills_stack",
-      "target": "aaradhya_master_v91_embedded_systems_digital_design",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_embedded_systems_digital_design"
     },
     {
       "relation": "contains",
@@ -1905,9 +2031,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L964",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_skills_stack",
-      "target": "aaradhya_master_v91_local_ollama_models_as_of_june_2026",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_local_ollama_models_as_of_june_2026"
     },
     {
       "relation": "contains",
@@ -1915,9 +2041,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L934",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_skills_stack",
-      "target": "aaradhya_master_v91_machine_learning",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_machine_learning"
     },
     {
       "relation": "contains",
@@ -1925,9 +2051,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L930",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_skills_stack",
-      "target": "aaradhya_master_v91_programming",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_programming"
     },
     {
       "relation": "contains",
@@ -1935,9 +2061,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L958",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_skills_stack",
-      "target": "aaradhya_master_v91_system_setup",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_system_setup"
     },
     {
       "relation": "contains",
@@ -1945,9 +2071,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L954",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_skills_stack",
-      "target": "aaradhya_master_v91_tools",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_tools"
     },
     {
       "relation": "contains",
@@ -1955,9 +2081,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L998",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_personal_interests_life",
-      "target": "aaradhya_master_v91_leo_club_lions_international",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_leo_club_lions_international"
     },
     {
       "relation": "contains",
@@ -1965,9 +2091,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L1016",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_personal_interests_life",
-      "target": "aaradhya_master_v91_motorcycles",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_motorcycles"
     },
     {
       "relation": "contains",
@@ -1975,9 +2101,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L1005",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_personal_interests_life",
-      "target": "aaradhya_master_v91_music",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_music"
     },
     {
       "relation": "contains",
@@ -1985,9 +2111,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L1010",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_personal_interests_life",
-      "target": "aaradhya_master_v91_perfumery",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_perfumery"
     },
     {
       "relation": "contains",
@@ -1995,9 +2121,9 @@
       "source_file": "AARADHYA_MASTER_v91.md",
       "source_location": "L1056",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "aaradhya_master_v91_trajectory",
-      "target": "aaradhya_master_v91_what_matters_in_the_next_18_months_in_order",
-      "confidence_score": 1.0
+      "target": "aaradhya_master_v91_what_matters_in_the_next_18_months_in_order"
     },
     {
       "relation": "contains",
@@ -2005,9 +2131,9 @@
       "source_file": "README.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme",
-      "target": "readme_fuseaif_wk7_customer_segmentation",
-      "confidence_score": 1.0
+      "target": "readme_fuseaif_wk7_customer_segmentation"
     },
     {
       "relation": "implements",
@@ -2045,9 +2171,9 @@
       "source_file": "README.md",
       "source_location": "L101",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_fuseaif_wk7_customer_segmentation",
-      "target": "readme_cluster_segments",
-      "confidence_score": 1.0
+      "target": "readme_cluster_segments"
     },
     {
       "relation": "contains",
@@ -2055,9 +2181,9 @@
       "source_file": "README.md",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_fuseaif_wk7_customer_segmentation",
-      "target": "readme_context",
-      "confidence_score": 1.0
+      "target": "readme_context"
     },
     {
       "relation": "contains",
@@ -2065,9 +2191,9 @@
       "source_file": "README.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_fuseaif_wk7_customer_segmentation",
-      "target": "readme_dataset",
-      "confidence_score": 1.0
+      "target": "readme_dataset"
     },
     {
       "relation": "contains",
@@ -2075,9 +2201,9 @@
       "source_file": "README.md",
       "source_location": "L136",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_fuseaif_wk7_customer_segmentation",
-      "target": "readme_fellowship_context",
-      "confidence_score": 1.0
+      "target": "readme_fellowship_context"
     },
     {
       "relation": "contains",
@@ -2085,9 +2211,9 @@
       "source_file": "README.md",
       "source_location": "L73",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_fuseaif_wk7_customer_segmentation",
-      "target": "readme_key_techniques",
-      "confidence_score": 1.0
+      "target": "readme_key_techniques"
     },
     {
       "relation": "contains",
@@ -2095,9 +2221,9 @@
       "source_file": "README.md",
       "source_location": "L23",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_fuseaif_wk7_customer_segmentation",
-      "target": "readme_pipeline_overview",
-      "confidence_score": 1.0
+      "target": "readme_pipeline_overview"
     },
     {
       "relation": "contains",
@@ -2105,9 +2231,9 @@
       "source_file": "README.md",
       "source_location": "L62",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_fuseaif_wk7_customer_segmentation",
-      "target": "readme_repository_structure",
-      "confidence_score": 1.0
+      "target": "readme_repository_structure"
     },
     {
       "relation": "contains",
@@ -2115,9 +2241,9 @@
       "source_file": "README.md",
       "source_location": "L87",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_fuseaif_wk7_customer_segmentation",
-      "target": "readme_results",
-      "confidence_score": 1.0
+      "target": "readme_results"
     },
     {
       "relation": "contains",
@@ -2125,9 +2251,9 @@
       "source_file": "README.md",
       "source_location": "L111",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_fuseaif_wk7_customer_segmentation",
-      "target": "readme_setup",
-      "confidence_score": 1.0
+      "target": "readme_setup"
     },
     {
       "relation": "contains",
@@ -2135,9 +2261,9 @@
       "source_file": "README.md",
       "source_location": "L130",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_fuseaif_wk7_customer_segmentation",
-      "target": "readme_stack",
-      "confidence_score": 1.0
+      "target": "readme_stack"
     },
     {
       "relation": "references",
@@ -2152,12 +2278,82 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "task_progress",
+      "target": "task_progress_task_progress_week_7_clustering_assignment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "task_progress_task_progress_week_7_clustering_assignment",
+      "target": "task_progress_next_steps",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "task_progress_task_progress_week_7_clustering_assignment",
+      "target": "task_progress_notes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "task_progress_task_progress_week_7_clustering_assignment",
+      "target": "task_progress_overall_status",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "task_progress_task_progress_week_7_clustering_assignment",
+      "target": "task_progress_remaining_work",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "task_progress_task_progress_week_7_clustering_assignment",
+      "target": "task_progress_summary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "task_progress_task_progress_week_7_clustering_assignment",
+      "target": "task_progress_task_plan_overview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4",
-      "target": "week7_clustering_taskplan_v4_week_7_clustering_assignment_task_plan_v4",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_week_7_clustering_assignment_task_plan_v4"
     },
     {
       "relation": "contains",
@@ -2165,9 +2361,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_week_7_clustering_assignment_task_plan_v4",
-      "target": "week7_clustering_taskplan_v4_overview",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_overview"
     },
     {
       "relation": "contains",
@@ -2175,9 +2371,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L25",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_week_7_clustering_assignment_task_plan_v4",
-      "target": "week7_clustering_taskplan_v4_section_by_section_breakdown",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_section_by_section_breakdown"
     },
     {
       "relation": "contains",
@@ -2185,9 +2381,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L420",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_week_7_clustering_assignment_task_plan_v4",
-      "target": "week7_clustering_taskplan_v4_submission_checklist",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_submission_checklist"
     },
     {
       "relation": "contains",
@@ -2195,9 +2391,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L461",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_week_7_clustering_assignment_task_plan_v4",
-      "target": "week7_clustering_taskplan_v4_time_estimate",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_time_estimate"
     },
     {
       "relation": "contains",
@@ -2205,9 +2401,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L440",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_week_7_clustering_assignment_task_plan_v4",
-      "target": "week7_clustering_taskplan_v4_what_changed_from_v1_v2_v3_gap_summary",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_what_changed_from_v1_v2_v3_gap_summary"
     },
     {
       "relation": "contains",
@@ -2215,9 +2411,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L29",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_section_by_section_breakdown",
-      "target": "week7_clustering_taskplan_v4_section_0_environment_setup",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_section_0_environment_setup"
     },
     {
       "relation": "contains",
@@ -2225,9 +2421,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L405",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_section_by_section_breakdown",
-      "target": "week7_clustering_taskplan_v4_section_10_high_ceiling_optional",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_section_10_high_ceiling_optional"
     },
     {
       "relation": "contains",
@@ -2235,9 +2431,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L37",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_section_by_section_breakdown",
-      "target": "week7_clustering_taskplan_v4_section_1_data_loading_first_look",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_section_1_data_loading_first_look"
     },
     {
       "relation": "contains",
@@ -2245,9 +2441,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L52",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_section_by_section_breakdown",
-      "target": "week7_clustering_taskplan_v4_section_2_data_cleaning",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_section_2_data_cleaning"
     },
     {
       "relation": "contains",
@@ -2255,9 +2451,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L67",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_section_by_section_breakdown",
-      "target": "week7_clustering_taskplan_v4_section_3_feature_engineering",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_section_3_feature_engineering"
     },
     {
       "relation": "contains",
@@ -2265,9 +2461,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L203",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_section_by_section_breakdown",
-      "target": "week7_clustering_taskplan_v4_section_4_k_means_clustering",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_section_4_k_means_clustering"
     },
     {
       "relation": "contains",
@@ -2275,9 +2471,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L227",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_section_by_section_breakdown",
-      "target": "week7_clustering_taskplan_v4_section_5_hierarchical_clustering",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_section_5_hierarchical_clustering"
     },
     {
       "relation": "contains",
@@ -2285,9 +2481,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L289",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_section_by_section_breakdown",
-      "target": "week7_clustering_taskplan_v4_section_6_dbscan_clustering",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_section_6_dbscan_clustering"
     },
     {
       "relation": "contains",
@@ -2295,9 +2491,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L326",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_section_by_section_breakdown",
-      "target": "week7_clustering_taskplan_v4_section_7_cluster_validation_comparison",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_section_7_cluster_validation_comparison"
     },
     {
       "relation": "contains",
@@ -2305,9 +2501,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L362",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_section_by_section_breakdown",
-      "target": "week7_clustering_taskplan_v4_section_8_business_narrative",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_section_8_business_narrative"
     },
     {
       "relation": "contains",
@@ -2315,9 +2511,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L386",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_section_by_section_breakdown",
-      "target": "week7_clustering_taskplan_v4_section_9_failure_log_3_entries_graded_seriously",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_section_9_failure_log_3_entries_graded_seriously"
     },
     {
       "relation": "contains",
@@ -2325,9 +2521,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L73",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_section_3_feature_engineering",
-      "target": "week7_clustering_taskplan_v4_3a_rfm_features",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_3a_rfm_features"
     },
     {
       "relation": "contains",
@@ -2335,9 +2531,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L83",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_section_3_feature_engineering",
-      "target": "week7_clustering_taskplan_v4_3b_extended_features",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_3b_extended_features"
     },
     {
       "relation": "contains",
@@ -2345,9 +2541,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L96",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_section_3_feature_engineering",
-      "target": "week7_clustering_taskplan_v4_3c_category_spend_ratios_explicitly_required_by_pdf_do_not_skip",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_3c_category_spend_ratios_explicitly_required_by_pdf_do_not_skip"
     },
     {
       "relation": "contains",
@@ -2355,9 +2551,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L140",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_section_3_feature_engineering",
-      "target": "week7_clustering_taskplan_v4_3d_outlier_handling",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_3d_outlier_handling"
     },
     {
       "relation": "contains",
@@ -2365,9 +2561,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L172",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_section_3_feature_engineering",
-      "target": "week7_clustering_taskplan_v4_3e_scaling",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_3e_scaling"
     },
     {
       "relation": "contains",
@@ -2375,9 +2571,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L442",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_what_changed_from_v1_v2_v3_gap_summary",
-      "target": "week7_clustering_taskplan_v4_v1_v2_pdf_gap_analysis",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_v1_v2_pdf_gap_analysis"
     },
     {
       "relation": "contains",
@@ -2385,9 +2581,9 @@
       "source_file": "Week7_Clustering_TaskPlan_v4.md",
       "source_location": "L450",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "week7_clustering_taskplan_v4_what_changed_from_v1_v2_v3_gap_summary",
-      "target": "week7_clustering_taskplan_v4_v2_v3_notebook_scaffold_analysis",
-      "confidence_score": 1.0
+      "target": "week7_clustering_taskplan_v4_v2_v3_notebook_scaffold_analysis"
     },
     {
       "relation": "contains",
@@ -2395,9 +2591,9 @@
       "source_file": "graphify-out/converted/online_retail_II_265288a9.md",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "converted_online_retail_ii_265288a9",
-      "target": "converted_online_retail_ii_265288a9_sheet_year_2009_2010",
-      "confidence_score": 1.0
+      "target": "converted_online_retail_ii_265288a9_sheet_year_2009_2010"
     },
     {
       "relation": "contains",
@@ -2405,9 +2601,9 @@
       "source_file": "graphify-out/converted/online_retail_II_265288a9.md",
       "source_location": "L525467",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "converted_online_retail_ii_265288a9",
-      "target": "converted_online_retail_ii_265288a9_sheet_year_2010_2011",
-      "confidence_score": 1.0
+      "target": "converted_online_retail_ii_265288a9_sheet_year_2010_2011"
     },
     {
       "relation": "references",
@@ -2441,5 +2637,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "0c622c40788deb0e97c333f19bac995eb97a46a8"
+  "built_at_commit": "8ca1ccb2af4bdda745923e1d72f84f162ac5528d"
 }
