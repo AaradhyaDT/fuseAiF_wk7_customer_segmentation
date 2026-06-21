@@ -63,7 +63,7 @@ Business Narrative
 
 ```
 fuseAiF_wk7_customer_segmentation/
-├── Week_7_Clustering_Assignment.ipynb   # Main submission — all cells executed
+├── Week_7_Clustering_Assignment_executed.ipynb   # Main submission — all cells executed
 ├── README.md
 └── online_retail_II.xlsx                # NOT included — download from UCI
 ```
@@ -122,7 +122,7 @@ pip install pandas numpy scikit-learn scipy seaborn matplotlib openpyxl
 # Download online_retail_II.xlsx from UCI and put it in the project root
 
 # Run
-jupyter notebook Week_7_Clustering_Assignment.ipynb
+jupyter notebook Week_7_Clustering_Assignment_executed.ipynb
 ```
 
 ---
